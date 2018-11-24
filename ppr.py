@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #############################################
-# Scrap data from cases on myimmitracker
+# Scrap data from cases at myimmitracker
 #############################################
 
 import requests
