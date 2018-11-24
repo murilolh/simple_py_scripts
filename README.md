@@ -1,5 +1,5 @@
 # simple_py_scripts
-Simple python scripts to automate tasks
+Simple scripts to automate tasks with Python and Selenium
 
 Scripts designed for Google Chrome ([Chrome Driver](http://chromedriver.chromium.org/) required)
 
