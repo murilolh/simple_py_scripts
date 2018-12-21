@@ -16,6 +16,7 @@ file = open("output_ppr.txt","w") # Output file for analysed cases
 # PPR Date	AOR Date	Number of Days	Nationality	Residence	Office	PA + Dep	ADR Date	PPR from ADR	SS
 fields = [16, 7, 10, 6, 8, 17 , 15, 31, 32, 36] # List of fields, in order, to be printed
 
+i = 0
 for case in cases:
     # Get the case data
     data = requests.get('https://myimmitracker.com/en/ca/trackers/consolidated-e-apr-tracker-express-entry-permanent-residency-application/cases/case-' + case)
@@ -28,9 +29,10 @@ for case in cases:
     casesdiv = detdiv.find_all('div')[41]
     datadiv = casesdiv.find_all('div')
 
-    #print 'Printing case ' + case
     for field in fields:
         file.write(datadiv[field].text.strip() + '\t')
     file.write(case + '\n')
+    i += 1
 
 file.close()
+print `i` + ' case(s) have been analysed.'
