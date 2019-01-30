@@ -1,694 +1,1095 @@
-31/07/2018	21/04/2018	101	Brazil	Brazil	Mexico City	3	26/04/2018	96		47373
-09/08/2018	01/05/2018	100	Brazil	Brazil		2				50299
-09/08/2018	16/04/2018	115	Brazil	Brazil	Ottawa	1				44764
-17/08/2018	15/05/2018	94	Brazil	Brazil						51968
-22/08/2018	24/04/2018	120	Brazil	Brazil	Ottawa	3				50719
-03/08/2018	24/02/2018	160	India	India	Ottawa	1	10/04/2018	115		40678
-03/08/2018	01/03/2018	155	India	India	Ottawa	1				41062
-03/08/2018	07/03/2018	149	India	India	Ottawa	1				41961
-03/08/2018	22/03/2018	134	India	India	Ottawa	2				42561
-03/08/2018	13/04/2018	112	India	India	New Delhi	2				44160
-03/08/2018	17/04/2018	108	India	India	Ottawa	1				44336
-03/08/2018	04/04/2018	121	India	United States of America	Ottawa	1				45295
-03/08/2018	03/03/2018	153	India	India	New Delhi	2				45962
-03/08/2018	03/03/2018	153	India	India		1				46263
-03/08/2018	17/05/2018	78	India	India	Ottawa	2	09/06/2018	55		46408
-03/08/2018	04/05/2018	91	India	India	Ottawa	1				46880
-03/08/2018	13/06/2018	51	India	United States of America	Ottawa	N/A	02/08/2018	1		48263
-03/08/2018	16/03/2018	140	India	India	New Delhi	2				48367
-03/08/2018	10/05/2018	85	India	United Arab Emirates		3				49671
-03/08/2018	01/03/2018	155	Nigeria	Nigeria	Ottawa					52183
-03/08/2018	11/03/2018	145	India	India	New Delhi	N/A				52892
-02/08/2018	03/05/2017	456	India	Saudi Arabia	London	5	22/06/2018	41		23591
-02/08/2018	02/02/2018	181	Pakistan	Pakistan	London	3	02/08/2018			39164
-02/08/2018	16/03/2018	139	Morocco	Morocco	Ottawa	2				42264
-02/08/2018	04/03/2018	151	India	India	Ottawa	1				45424
-02/08/2018	01/05/2018	93	India	India						45517
-02/08/2018	13/04/2018	111	India	India	Ottawa	1				47165
-02/08/2018	31/03/2018	124	India	India	Ottawa	1				47845
-02/08/2018	21/06/2018	42	India	India	Ottawa	4				49848
-02/08/2018	04/04/2018	120	India	United States of America	Ottawa	3				51659
-02/08/2018	11/06/2018	52	India	India		1				51719
-02/08/2018	15/03/2018	140	India	United States of America	Ottawa	1				52047
-02/08/2018	02/04/2018	122	India	India	New Delhi	1				53276
-01/08/2018	07/03/2018	147	Morocco	United States of America	Ottawa	1				41525
-01/08/2018	22/03/2018	132	India	India	Ottawa	1	19/07/2018	13		44837
-01/08/2018	08/03/2018	146	India	Canada		N/A				47797
-01/08/2018	12/06/2018	50	Nigeria	Nigeria		5	12/07/2018	20		48833
-01/08/2018	24/06/2018	38	United States of America	United States of America		2				48978
-01/08/2018	25/06/2018	37	India	United States of America	Ottawa	3	10/07/2018	22		48995
-01/08/2018	24/06/2018	38	India	United States of America		2				49461
-01/08/2018	01/02/2018	181	Nigeria	Nigeria	London	3				50624
-01/08/2018	12/10/2017	293	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Paris	2				50929
-01/08/2018	25/06/2018	37	India	United States of America	Ottawa	1				51476
-31/07/2018	28/02/2018	153	India	India	Ottawa	1	10/04/2018	112		41333
-31/07/2018	20/02/2018	161	Nigeria	Nigeria	Los Angeles		17/07/2018	14		45369
-31/07/2018	16/05/2018	76	Dominican Republic	Dominican Republic	Mexico City	1				46328
-31/07/2018	25/05/2018	67	Brazil	Brazil	Mexico City	2				47174
-31/07/2018	12/06/2018	49	India	United States of America		2				48268
-31/07/2018	19/06/2018	42	Barbados	Barbados	Port of Spain					48590
-31/07/2018	15/06/2018	46	India	United States of America	Ottawa	2				50992
-31/07/2018	20/06/2018	41	Nigeria	Nigeria		1				51284
-09/08/2018	28/03/2018	134	Russian Federation	Russian Federation		1				43494
-09/08/2018	29/03/2018	133	India	India	Ottawa	2				43541
-09/08/2018	02/04/2018	129	India	India	Ottawa	1				43622
-09/08/2018	19/03/2018	143	India	India	Ottawa	N/A				43773
-09/08/2018	02/04/2018	129	India	India	Ottawa	1				43814
-09/08/2018	20/01/2018	201	Russian Federation	Australia	Sydney					44139
-09/08/2018	16/04/2018	115	India	Germany	Ottawa	2				44434
-09/08/2018	19/04/2018	112	India	India	Ottawa	1	26/04/2018	105		44454
-09/08/2018	30/04/2018	101	India	India	Ottawa	2	19/05/2018	82		45173
-09/08/2018	21/04/2018	110	India	India	Ottawa	1				46237
-09/08/2018	01/05/2018	100	Brazil	Brazil	Sao Paulo	2				46536
-09/08/2018	24/04/2018	107	India	India	Ottawa	2	17/05/2018	84		47857
-09/08/2018	30/04/2018	101	India	India		2				47914
-09/08/2018	06/06/2018	64	India	India	Ottawa	2				47918
-09/08/2018	23/05/2018	78	Korea (Republic of)	Australia	Ottawa	1				48654
-09/08/2018	29/06/2018	41	Dominican Republic	Dominican Republic	Mexico	2				49322
-09/08/2018	27/05/2018	74	India	India	Ottawa	1	07/06/2018	63		50202
-09/08/2018	27/05/2018	74	India	India	Ottawa	N/A				50387
-09/08/2018	09/04/2018	122	India	India	Ottawa	2				51925
-09/08/2018	20/06/2018	50	India	India		1				52297
-09/08/2018	28/06/2018	42	India	Singapore	Ottawa	4				53086
-08/08/2018	06/02/2018	183	Syrian Arab Republic	Japan	Manila	4	19/02/2018	170		42083
-08/08/2018	07/03/2018	154	India	United States of America	Ottawa					42669
-08/08/2018	12/04/2018	118	India	India	Sydney	1	25/04/2018	105		44001
-08/08/2018	23/10/2017	289	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	N/A	23/05/2018	77		44076
-08/08/2018	18/04/2018	112	India	India	Ottawa	1				44734
-08/08/2018	23/05/2018	77	Pakistan	United States of America	Ottawa	1				47169
-08/08/2018	09/04/2018	121	India	India	Ottawa	2				49035
-08/08/2018	03/07/2018	36	Nigeria	Nigeria		4				49745
-08/08/2018	29/06/2018	40	India	United States of America	Sydney	2	13/07/2018	26		50436
-08/08/2018	30/04/2018	100	India	India		2	22/05/2018	78		52391
-08/08/2018	27/04/2018	103	India	India	Ottawa	N/A				52767
-06/08/2018	30/04/2018	98	India	United States of America		1				47539
-06/08/2018	18/03/2018	141	India	United States of America		N/A				50726
-04/08/2018	26/03/2018	131	India	Luxembourg	Ottawa	2	05/04/2018	121		43053
-04/08/2018	15/03/2018	142	India	India		N/A	05/04/2018	121		48450
-10/08/2018	04/05/2018	98	India	India		2				48122
-10/08/2018	19/04/2018	113	India	India	Ottawa	1				47363
-10/08/2018	15/04/2018	117	Bangladesh	Bangladesh	Singapore	2				49876
-10/08/2018	07/04/2018	125	Pakistan	Pakistan			12/04/2018	120		44317
-10/08/2018	05/04/2018	127	India	India	Ottawa	2				43763
-10/08/2018	30/03/2018	133	India	New Zealand		2				43681
-10/08/2018	24/03/2018	139	India	Australia	Sydney	2	19/07/2018	22		50855
-10/08/2018	21/03/2018	142	Morocco	Morocco	Rabat	N/A				43581
-10/08/2018	09/03/2018	154	Pakistan	Pakistan	Ottawa	1				43110
-10/08/2018	05/03/2018	158	Pakistan	Pakistan	Ottawa	1				43193
-10/08/2018	04/03/2018	159	Morocco	Morocco	Ottawa	1				42489
-14/08/2018	06/07/2018	39	Nigeria	Nigeria		1	06/08/2018	8		53340
-15/08/2018	05/07/2018	41	India	India	Ottawa	N/A				49688
-14/08/2018	23/06/2018	52	Philippines	Philippines		2				48854
-13/08/2018	02/06/2018	72	China	United States of America	Ottawa	N/A				53345
-13/08/2018	23/05/2018	82	Pakistan	Pakistan	London					46460
-15/08/2018	18/05/2018	89	Pakistan	Pakistan	Islamabad	1				52622
-15/08/2018	12/05/2018	95	India	India	New Delhi	2				46621
-15/08/2018	11/05/2018	96	China	China	Ottawa	2				50090
-14/08/2018	08/05/2018	98	India	United States of America	Ottawa	2				46116
-11/08/2018	04/05/2018	99	India	India	Ottawa	1				47995
-14/08/2018	28/04/2018	108	Nigeria	Nigeria		1	16/05/2018	90		45049
-15/08/2018	19/04/2018	118	Algeria	Algeria	Paris	1				44959
-15/08/2018	12/04/2018	125	India	United States of America	Ottawa	1				45556
-11/08/2018	12/04/2018	121	India	India		1				47556
-14/08/2018	28/03/2018	139	Pakistan	Pakistan		1				48224
-14/08/2018	22/03/2018	145	India	United Arab Emirates		1				47371
-13/08/2018	20/03/2018	146	India	United States of America		N/A				44822
-14/08/2018	19/03/2018	148	Nigeria	Nigeria	Ottawa	1				43614
-15/08/2018	16/03/2018	152	Nigeria	Nigeria		N/A				49993
-11/08/2018	16/03/2018	148	India	India	Ottawa	1				42268
-11/08/2018	12/06/2017	425	Pakistan	Pakistan	Ottawa	2			04/08/2017	38766
-16/08/2018	05/07/2018	42	Egypt	Egypt		1				52312
-16/08/2018	22/06/2018	55	India	Norway	Ottawa	1				53054
-16/08/2018	11/06/2018	66	India	India		2	08/08/2018	8		50787
-16/08/2018	26/05/2018	82	India	India	Ottawa	N/A				52070
-16/08/2018	17/05/2018	91	India	India	Ottawa	2				48695
-16/08/2018	17/05/2018	91	India	India	Ottawa	2				46401
-16/08/2018	11/05/2018	97	Viet Nam	Viet Nam	Ottawa	3				47387
-16/08/2018	10/05/2018	98	India	India	Ottawa	1				45847
-16/08/2018	07/05/2018	101	Korea (Republic of)	Korea (Republic of)		1				46381
-16/08/2018	06/05/2018	102	India	Finland		1				45901
-16/08/2018	16/04/2018	122	India	India	Ottawa	N/A	23/04/2018	115		45242
-16/08/2018	05/04/2018	133	India	India	Ottawa	1				46443
-16/08/2018	03/04/2018	135	India	India	Ottawa	1	07/08/2018	9	09/08/2018	47101
-16/08/2018	03/04/2018	135	Algeria	Algeria	Ottawa	1	10/05/2018	98		43913
-16/08/2018	29/03/2018	140	India	India	Ottawa	1				43173
-16/08/2018	28/03/2018	141	India	India	Ottawa	N/A				46373
-16/08/2018	09/02/2018	188	South Africa	South Africa		6				46230
-16/08/2018	20/06/2017	422	India	India	New Delhi	2	07/02/2018	190		24848
-16/08/2018	16/05/2017	457	India	India	Ottawa	3			01/08/2017	21997
-17/08/2018	06/07/2018	42	Nigeria	Saint Kitts and Nevis	Port of Spain	1	03/08/2018	14		50618
-17/08/2018	28/05/2018	81	Russian Federation	Russian Federation	Moscow	2				47254
-17/08/2018	23/05/2018	86	Kenya	Kenya		1				46809
-17/08/2018	27/03/2018	143	Philippines	Philippines	Ottawa	1				42941
-20/08/2018	11/07/2018	40	India	United States of America		3				50275
-20/08/2018	01/07/2018	50	India	United States of America						53818
-18/08/2018	14/04/2018	126	Russian Federation	Russian Federation		2	23/07/2018	26		44639
-20/08/2018	11/05/2017	466	Pakistan	Pakistan	London	1			13/09/2017	18860
-21/08/2018	13/07/2018	39	India	United States of America		2				56573
-21/08/2018	11/07/2018	41	India	United States of America		3				50240
-22/08/2018	08/05/2018	106	Nigeria	Nigeria	Ottawa	1				47231
-22/08/2018	07/05/2018	107	Nigeria	Nigeria	Accra	2				52195
-22/08/2018	06/05/2018	108	Nigeria	Nigeria	Accra	2				46721
-21/08/2018	10/04/2018	133	Pakistan	United Kingdom of Great Britain and Northern Ireland	London	1				44239
-21/08/2018	05/04/2018	138	India	United States of America	Ottawa	2				49287
-22/08/2018	24/03/2018	151	Sri Lanka	United Arab Emirates		1	06/08/2018	16		51392
-22/08/2018	09/03/2018	166	Russian Federation	Russian Federation	Ottawa	1				41746
-22/08/2018	05/02/2018	198	India	United Arab Emirates	London	3	03/08/2018	19		39310
-22/08/2018	05/02/2018	198	Nigeria	Nigeria	London	1	03/08/2018	19		40692
-22/08/2018	03/02/2018	200	Jordan	Equatorial Guinea	London	1	02/08/2018	20		51168
-22/08/2018	02/02/2018	201	Nigeria	Nigeria	London	3	13/02/2018	190		41876
-21/08/2018	14/12/2017	250	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Ottawa	2	08/03/2018	166		36096
-27/08/2018	18/07/2018	40		United States of America						53896
-27/08/2018	18/07/2018	40	India	United States of America		3				54422
-28/08/2018	18/07/2018	41	India	United States of America	Ottawa	1				50996
-23/08/2018	14/07/2018	40	India	United States of America						50582
-27/08/2018	17/06/2018	71	India	Canada		3				54148
-24/08/2018	11/05/2018	105	India	United Kingdom of Great Britain and Northern Ireland	London	3				50085
-27/08/2018	18/04/2018	131	India	India	New Delhi	3				44435
-23/08/2018	05/03/2018	171	Pakistan	Pakistan		1				47134
-31/08/2018	20/07/2018	42	India	United States of America		1				52730
-31/08/2018	20/07/2018	42	India	United States of America		2				53020
-30/08/2018	20/07/2018	41	India	United States of America		2	08/08/2018	22		53192
-30/08/2018	19/07/2018	42	India	United States of America		2				50946
-29/08/2018	11/07/2018	49	India	United States of America	Ottawa	1	27/08/2018	2		53873
-29/08/2018	11/07/2018	49	Nigeria	France	Paris	1				54254
-31/08/2018	10/07/2018	52	India	United States of America						50414
-29/08/2018	07/07/2018	53	Nigeria	Nigeria		5				51175
-29/08/2018	06/05/2018	115	Iran (Islamic Republic of)	Iran (Islamic Republic of)						45593
-30/08/2018	27/04/2018	125	India	India	New Delhi	2				54908
-31/08/2018	26/04/2018	127	Morocco	Morocco	Sydney	3	03/05/2018	120		48267
-30/08/2018	21/04/2018	131	India	India	New Delhi	1				50806
-30/08/2018	19/04/2018	133	India	India	New Delhi	2				52597
-30/08/2018	18/04/2018	134	India	India	New Delhi	1				44592
-31/08/2018	19/03/2018	165	Australia	Australia	Sydney	2				42399
-29/08/2018	24/02/2018	186	Mauritius	Australia	Sydney	2				42495
-04/09/2018	22/07/2018	44	India	United States of America	Ottawa	1				51945
-04/09/2018	22/07/2018	44	India	United States of America	Ottawa	1				52432
-05/09/2018	16/03/2018	173	Morocco	Morocco		1	22/08/2018	14		47386
-05/09/2018	23/07/2018	44	India	United States of America	Ottawa	2				58990
-06/09/2018	21/04/2018	138	India	India	Ottawa	2				44634
-06/09/2018	28/03/2018	162	Iran (Islamic Republic of)	United States of America		2				44827
-06/09/2018	26/03/2018	164	Nigeria	Nigeria		1				44937
-06/09/2018	10/04/2018	149	India	United States of America		N/A				45947
-06/09/2018	24/05/2018	105	India	United States of America	Ottawa	N/A			07/08/2018	49515
-06/09/2018	13/06/2018	85	Viet Nam	United States of America	Ottawa	2				54703
-07/09/2018	21/12/2017	260	Pakistan	Saudi Arabia	Ottawa	3	15/01/2018	235		36864
-07/09/2018	17/01/2018	233	India	India	Ottawa	4				41482
-07/09/2018	03/03/2018	188	India	India	New Delhi	3				42272
-07/09/2018	22/04/2018	138	India	India	Ottawa	1				44703
-07/09/2018	23/04/2018	137	India	India	Ottawa	3				44727
-07/09/2018	15/05/2018	115	India	United States of America	Ottawa	1				46219
-07/09/2018	04/06/2018	95	India	India	Ottawa	2				48628
-07/09/2018	04/06/2018	95	India	India		2				50241
-07/09/2018	26/04/2018	134	Hong Kong	Hong Kong		2				51042
-07/09/2018	26/04/2018	134	Nigeria	Nigeria	Ottawa	N/A				51319
-07/09/2018	24/07/2018	45	India	United States of America						51395
-10/09/2018	26/09/2017	349	Lebanon		Ottawa					30767
-10/09/2018	03/05/2018	130	Pakistan	United States of America		1				45377
-10/09/2018	08/05/2018	125	Pakistan	Pakistan		1				45875
-10/09/2018	18/05/2018	115	India	United States of America	Ottawa	N/A				46478
-10/09/2018	14/06/2018	88	Nigeria	Nigeria	Ottawa	1				50217
-10/09/2018	18/05/2018	115	India	United States of America	Ottawa	1				52651
-11/09/2018	09/06/2017	459	Palestine, State of	Lebanon	Paris	1				20876
-11/09/2018	23/05/2017	476	Bangladesh	Qatar	Abu Dhabi	2				24643
-11/09/2018	06/01/2018	248	Turkey	Turkey	Paris	3	28/08/2018	14		39428
-11/09/2018	09/04/2018	155	Pakistan	Pakistan	Ottawa	N/A				44305
-11/09/2018	12/04/2018	152	India	United States of America		1				44534
-11/09/2018	29/04/2018	135	India	Singapore	Ottawa	1				45252
-11/09/2018	04/05/2018	130	Egypt	United Kingdom of Great Britain and Northern Ireland	Ottawa	1				45525
-11/09/2018	18/05/2018	116	India	United States of America	Ottawa	1				46636
-11/09/2018	05/05/2018	129	Nigeria	Nigeria	Ottawa	1				47209
-11/09/2018	23/05/2018	111	Dominican Republic	Australia		1	19/06/2018	84		48325
-11/09/2018	03/05/2018	131	India	India	Ottawa	1				48486
-11/09/2018	16/05/2018	118	Russian Federation	Russian Federation	Moscow	1				49217
-11/09/2018	19/04/2018	145	India	India	Ottawa	1				50760
-11/09/2018	08/05/2018	126	Philippines	Philippines	Ottawa	1				51305
-11/09/2018	24/07/2018	49	India	United States of America		3				51488
-11/09/2018	08/05/2018	126	Nigeria	Nigeria	Accra	1				51754
-11/09/2018	27/07/2018	46	India	United States of America		2				53229
-12/09/2018	23/09/2017	354	Ukraine	Ukraine	Ottawa	3	30/09/2017	347		32200
-12/09/2018	30/04/2018	135	India	India	Ottawa	1				45258
-12/09/2018	01/05/2018	134	Russian Federation	Russian Federation		N/A				45382
-12/09/2018	30/04/2018	135	India	India		1	16/05/2018	119		46317
-12/09/2018	12/05/2018	123	India	India	Ottawa	1				46461
-12/09/2018	18/05/2018	117	India	India	New Delhi	1				46650
-12/09/2018	12/05/2018	123	India	India	Ottawa	N/A				47081
-12/09/2018	18/05/2018	117	India	India	Ottawa	2				47203
-12/09/2018	06/03/2018	190	Zimbabwe	South Africa	Pretoria	1				47657
-12/09/2018	27/04/2018	138	Brazil	Brazil	Ottawa	2				47710
-12/09/2018	24/04/2018	141	India	India	Ottawa	1				47923
-12/09/2018	03/05/2018	132	India	India	Ottawa	1				48832
-12/09/2018	17/04/2018	148	India	India	Ottawa	1				48906
-12/09/2018	11/04/2018	154	Brazil	Brazil	Sao Paulo	1	17/04/2018	148		49323
-12/09/2018	30/06/2018	74	Brazil	Brazil		1				49338
-12/09/2018	15/04/2018	150	Algeria	Algeria	Ottawa	2				49427
-12/09/2018	18/05/2018	117	India	United States of America	Ottawa					49908
-12/09/2018	17/05/2018	118	India	India	Ottawa	1	08/06/2018	96		49931
-12/09/2018	30/04/2018	135	Lebanon	Lebanon	Ottawa	N/A				50063
-12/09/2018	12/06/2018	92	India	India	Ottawa	1				53077
-12/09/2018	04/05/2018	131	India	Australia		1				53426
-12/09/2018	06/03/2018	190	Zimbabwe	South Africa	Pretoria	1				53673
-12/09/2018	30/07/2018	44	India	United States of America		2				53975
-12/09/2018	29/07/2018	45	India	United States of America		3				55135
-12/09/2018	21/04/2018	144	India			1				55456
-12/09/2018	28/07/2018	46	India	United States of America	Ottawa	N/A				55592
-13/09/2018	25/07/2018	50	India	United States of America	Ottawa	1				53215
-13/09/2018	22/05/2018	114	India	India	New Delhi	1				54985
-13/09/2018	03/05/2018	133	Pakistan	Bahrain	Vienna	1				56650
-14/09/2018	17/04/2018	150	Turkey	Turkey	Ottawa	1	14/08/2018	31		39339
-14/09/2018	12/03/2018	186	Tanzania, United Republic of	Tanzania, United Republic of		N/A	07/08/2018	38		45508
-14/09/2018	23/05/2018	114	India	India	Ottawa	2				48067
-15/09/2018	18/05/2018	120	India	India	Ottawa	2				46564
-15/09/2018	18/05/2018	120	India	India	Ottawa	2				56919
-17/09/2018	22/05/2018	118	Honduras	Honduras	Ottawa	2	21/06/2018	88		48609
-17/09/2018	25/06/2018	84	Algeria	Algeria	Tunis	1				49984
-17/09/2018	21/04/2018	149	India	United States of America		2				50956
-17/09/2018	22/05/2018	118	Honduras	Honduras	Ottawa	2	21/06/2018	88		51101
-17/09/2018	30/07/2018	49	India	United States of America		1				52019
-17/09/2018	31/07/2018	48	India	United States of America	Ottawa	2				52416
-17/09/2018	31/07/2018	48	India	United States of America		2				52509
-17/09/2018	17/07/2018	62	India	Qatar	Abu Dhabi	N/A				53010
-17/09/2018	30/07/2018	49	India	United States of America		1				53245
-18/09/2018	26/08/2017	388	Uzbekistan	United States of America	Ottawa	4	30/10/2017	323	08/11/2017	29639
-18/09/2018	07/02/2018	223	India	India	Ottawa					40424
-18/09/2018	07/05/2018	134	Pakistan	Pakistan	London	1				45982
-18/09/2018	27/05/2018	114	India	India		3	19/09/2018			48785
-18/09/2018	19/05/2018	122	Nigeria	Nigeria	Ottawa	N/A				51960
-18/09/2018	14/07/2018	66	Nigeria	Nigeria		4				52122
-18/09/2018	16/05/2018	125	India	India		2				52885
-19/09/2018	21/03/2018	182	South Africa	South Africa		1				43695
-19/09/2018	21/02/2018	210	Nigeria	Nigeria	Ottawa	2	05/07/2018	76		44720
-19/09/2018	19/02/2018	212	Nigeria	Nigeria	Ottawa	2	05/07/2018	76		44730
-19/09/2018	14/04/2018	158	Pakistan	Pakistan	London	2	28/04/2018	144		46036
-19/09/2018	14/05/2018	128	South Africa	South Africa	Pretoria	2				46182
-19/09/2018	16/05/2018	126	India	India		2				46980
-19/09/2018	05/05/2018	137	Nigeria	United Kingdom of Great Britain and Northern Ireland	London	3	23/05/2018	119		47378
-19/09/2018	14/05/2018	128	India	India	Ottawa	3	04/06/2018	107		49947
-20/09/2018	28/07/2017	419	Albania	Albania	Rome	4	30/10/2017	325	29/11/2017	26556
-20/09/2018	21/12/2017	273	Colombia	United States of America	Ottawa	2	08/01/2018	255		36433
-20/09/2018	02/05/2018	141	India	India		1				45286
-20/09/2018	02/05/2018	141	India	India	Ottawa	3				45352
-20/09/2018	16/05/2018	127	India	India	Ottawa	2				46361
-20/09/2018	22/05/2018	121	Nigeria	Nigeria	Ottawa	1				49862
-20/09/2018	02/05/2018	141	India	India		3				53278
-20/09/2018	03/03/2018	201	India	United States of America	Sydney	1				54578
-20/09/2018	03/03/2018	201	India	United States of America	Sydney	1				54961
-20/09/2018	06/08/2018	45	India	India	Sydney	1				56308
-21/09/2018	05/05/2018	139	Philippines	Philippines	Ottawa	1				45512
-21/09/2018	09/05/2018	135	Korea (Republic of)	Singapore		3	29/05/2018	115		45890
-21/09/2018	11/05/2018	133	India	India		N/A				46398
-21/09/2018	10/05/2018	134	Korea (Republic of)	Korea (Republic of)		1				46458
-21/09/2018	06/05/2018	138	India	India	New Delhi	2				46771
-21/09/2018	24/05/2018	120	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	1				47157
-21/09/2018	20/04/2018	154	India	India	Ottawa	2				47207
-21/09/2018	10/05/2018	134	India	India		2				47512
-21/09/2018	10/08/2018	42	India	Singapore	Singapore	2				56298
-22/09/2018	07/05/2018	138	India	India						45565
-22/09/2018	16/05/2018	129	India	India		2				46839
-22/09/2018	24/05/2018	121	India	India	Ottawa	1				49203
-22/09/2018	14/05/2018	131	India	India	Ottawa	2				51062
-22/09/2018	16/05/2018	129	India		Ottawa	1				54485
-24/09/2018	04/05/2018	143	Pakistan	Saudi Arabia	London	2				45612
-25/09/2018	28/02/2018	209	India	India	Ottawa	N/A	07/03/2018	202		41673
-25/09/2018	05/03/2018	204	Bangladesh	United Arab Emirates	London	1	19/09/2018	6		42149
-25/09/2018	09/05/2018	139	Brazil	Brazil	Sao Paulo	2				46695
-25/09/2018	15/05/2018	133	Ireland	Ireland		1				48759
-25/09/2018	01/06/2018	116	Brazil	Brazil	Ottawa	2	04/07/2018	83		48782
-25/09/2018	24/05/2018	124	Turkey	Ukraine	Ottawa	2	07/06/2018	110		50497
-25/09/2018	14/07/2018	73	Nigeria	Nigeria	Ottawa	5				50551
-25/09/2018	25/05/2018	123	Nigeria	Nigeria	Lagos	1				51612
-25/09/2018	05/04/2018	173	Morocco	Morocco			09/04/2018	169		51767
-25/09/2018	15/05/2018	133	Brazil	Brazil	Ottawa	1				51971
-25/09/2018	11/06/2018	106	India	India		1				53505
-25/09/2018	06/08/2018	50	India	United States of America	Ottawa	4				54205
-25/09/2018	20/05/2018	128	India	India	Ottawa	2				54375
-25/09/2018	12/08/2018	44	Nigeria	Nigeria		4				54796
-25/09/2018	15/05/2018	133	Brazil	Brazil		2				54964
-26/09/2018	23/05/2018	126	India	United States of America	Ottawa	1	17/09/2018	9		46869
-26/09/2018	28/05/2018	121	India	India		2	29/06/2018	89		47143
-26/09/2018	16/05/2018	133	Nigeria	Nigeria	Ottawa	4				47189
-26/09/2018	30/05/2018	119	India	United States of America	Ottawa	2				47344
-26/09/2018	23/05/2018	126	India	India	Ottawa	2				47653
-26/09/2018	10/05/2018	139	Algeria	Algeria	Ottawa	3	25/05/2018	124		49643
-26/09/2018	20/04/2018	159	India	India	Ottawa	2				50968
-26/09/2018	19/05/2018	130	India	India	Ottawa	2				51218
-26/09/2018	24/05/2018	125	India	India	Ottawa	1	21/06/2018	97		53647
-26/09/2018	13/08/2018	44	Nigeria	Nigeria		3				53723
-26/09/2018	28/07/2018	60	Iran (Islamic Republic of)	Iran (Islamic Republic of)		3				54177
-26/09/2018	10/05/2018	139	India	India	New Delhi	1				56311
-26/09/2018	27/05/2018	122	India	India	Ottawa	1	19/06/2018	99		56675
-27/09/2018	19/03/2018	192	Pakistan	Saudi Arabia	London	2	24/04/2018	156		43558
-27/09/2018	23/04/2018	157	Nigeria	Nigeria	Ottawa	2				46042
-27/09/2018	31/05/2018	119	India	India	Ottawa	2				47663
-27/09/2018	04/06/2018	115	India	India						47870
-27/09/2018	04/06/2018	115	Nigeria	Nigeria	Ottawa	2				48248
-27/09/2018	29/05/2018	121	India	India	Ottawa	2	28/06/2018	91		48606
-27/09/2018	04/06/2018	115	India	India	Ottawa	3	15/06/2018	104		51442
-28/09/2018	19/12/2017	283	India	India	New Delhi	1				36498
-28/09/2018	28/05/2018	123	India	United Arab Emirates	Abu Dhabi	2				48161
-28/09/2018	28/05/2018	123	Brazil	Brazil	Sao Paulo	2				48379
-28/09/2018	01/06/2018	119	Jordan	Jordan		1				48770
-28/09/2018	28/05/2018	123	Russian Federation	Russian Federation		1	08/06/2018	112		49276
-28/09/2018	04/03/2018	208	Iran (Islamic Republic of)	Iran (Islamic Republic of)		N/A				56872
-29/09/2018	04/06/2018	117	India	India		1				47919
-29/09/2018	04/06/2018	117	Australia	New Zealand	Sydney	3				48508
-29/09/2018	24/05/2018	128	Poland	Poland	Warsaw	N/A	06/06/2018	115		53893
-01/10/2018	29/09/2017	367	Pakistan	United Arab Emirates	London	3	21/09/2018	10		30872
-01/10/2018	07/05/2018	147	Pakistan	United Arab Emirates	London	3				49670
-01/10/2018	06/08/2018	56	India	United States of America		N/A				52505
-01/10/2018	07/08/2018	55	India	United States of America	Ottawa	1				52620
-01/10/2018	07/08/2018	55	India	United States of America	Ottawa	1				53644
-01/10/2018	05/08/2018	57	India	India	Ottawa	3				55132
-01/10/2018	07/08/2018	55	India	United States of America	Ottawa	1				55413
-02/10/2018	05/06/2018	119	India	India	Ottawa	N/A				47793
-02/10/2018	06/06/2018	118	India	India	Ottawa	1	10/07/2018	84		47826
-02/10/2018	22/06/2018	102	India	United States of America		1				49974
-02/10/2018	05/06/2018	119	India	United States of America	Ottawa					49978
-02/10/2018	04/06/2018	120	India	India	Bengaluru (Bangalore)	2	26/09/2018	6		51256
-02/10/2018	09/08/2018	54	India	United States of America	Ottawa	3				52764
-02/10/2018	10/08/2018	53	India	United States of America	Ottawa	3	30/08/2018	33		52836
-02/10/2018	10/08/2018	53	India	United States of America		1				52843
-02/10/2018	12/08/2018	51	India	United States of America	Ottawa	2				53025
-02/10/2018	03/08/2018	60	China	United States of America		N/A				53909
-02/10/2018	31/05/2018	124	China	United States of America		1	21/09/2018	11		54345
-02/10/2018	13/08/2018	50	India	United States of America						54775
-02/10/2018	16/08/2018	47	India	India		1				55851
-02/10/2018	09/08/2018	54	India	United States of America		2				56515
-02/10/2018	07/08/2018	56	Nigeria	United States of America	Ottawa					59763
-03/10/2018	20/04/2018	166	India	Singapore		N/A				45018
-03/10/2018	10/04/2018	176	India	India	Ottawa	3				46155
+28/01/2019	03/07/2018	209	India	United States of America	Sydney	2				49508
+29/01/2019	04/06/2018	239	Ethiopia	Ethiopia		2	16/06/2018	227		47592
+25/01/2019	04/09/2018	143	India	United States of America						54967
+29/01/2019	13/09/2018	138	Bangladesh	Bangladesh		3				60989
+30/01/2019	12/07/2018	202	United States of America	United States of America	Montreal	2				51112
+30/01/2019	20/08/2018	163	Turkey	Turkey		1				56427
+29/01/2019	22/06/2018	221	Brazil	Brazil	Ottawa	1				50923
+29/01/2019	20/09/2018	131	Brazil	Brazil	Ottawa	3				58018
+25/01/2019	14/08/2018	164	India	India	Ottawa	1			23/01/2019	55632
+26/01/2019	04/09/2018	144	India	Oman	Abu Dhabi	2				58415
+29/01/2019	30/08/2018	152	Brazil	Brazil	Ottawa	1				55214
+30/01/2019	28/08/2018	155	India	India	Ottawa	1				60541
+29/01/2019	07/08/2018	175	Brazil	Brazil		2				53135
+29/01/2019	30/08/2018	152	India	India	Ottawa	1				55542
+25/01/2019	27/09/2018	120	Nigeria	Nigeria	Ottawa	2				57489
+23/01/2019	01/06/2018	236	Palestine, State of	United Arab Emirates	Ottawa	2				48952
+29/01/2019	01/01/2018	393	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Ottawa	2	20/02/2018	343		52458
+29/01/2019	21/08/2018	161	India	India	Ottawa	1	25/01/2019	4		53358
+09/01/2019	15/01/2018	359	China	China		3				41472
+29/01/2019	08/09/2018	143	India	India	Ottawa	2				56059
+30/01/2019	21/08/2018	162	Brazil	Brazil	Ottawa	2	25/01/2019	5		55820
+29/01/2019	11/08/2018	171	Brazil	Brazil	Ottawa	2				53108
+29/01/2019	15/09/2018	136	India	India	Ottawa	2			28/01/2019	56221
+28/01/2019	01/07/2018	211	Jamaica	Jamaica	Kingston	2				58877
+28/01/2019	17/08/2018	164	Bangladesh	Bangladesh	Ottawa	1				53542
+28/01/2019	28/08/2018	153	India	India	Ottawa	3	23/01/2019	5		55608
+28/01/2019	03/07/2018	209	India	India	Sydney	2	21/07/2018	191		63570
+28/01/2019	03/07/2018	209	Nigeria	Nigeria		1				50891
+29/01/2019	27/08/2018	155	China	New Zealand	Ottawa	2				54975
+29/01/2019	15/09/2018	136	Morocco	Hong Kong	Hong Kong SAR					62469
+29/01/2019	13/09/2018	138	Bosnia and Herzegovina	Jordan		3				58948
+22/01/2019	21/08/2018	154	Nigeria	Nigeria	Sydney	2			16/09/2018	54018
+25/01/2019	03/09/2018	144	India	United States of America		4				66195
+28/01/2019	28/09/2018	122	Bangladesh			3	27/10/2018	93		65552
+28/01/2019	05/11/2018	84	Pakistan	Pakistan		2	24/01/2019	4		61162
+25/01/2019	05/09/2018	142	India	United States of America	Ottawa					56255
+08/01/2019	10/07/2018	182	India	India	New Delhi	N/A				57934
+17/01/2019	04/04/2018	288	India	United States of America		1				45046
+31/12/2018	22/07/2018	162	India	India	Ottawa	1	22/08/2018	131		51195
+25/01/2019	22/08/2018	156	Serbia	Serbia	Ottawa	2				54265
+08/01/2019	09/09/2018	121	India	United States of America	Los Angeles	3				55458
+25/01/2019	15/08/2018	163	India	India	Ottawa	1				53298
+25/01/2019	16/08/2018	162	Nigeria	Nigeria	Ottawa	1				54604
+25/01/2019	11/08/2018	167	Mauritius	Mauritius	Ottawa	1				52931
+24/01/2019	13/05/2018	256	Dominican Republic	Dominican Republic		2				53581
+24/01/2019	25/07/2018	183	India	India		2				52826
+26/01/2019	18/06/2018	222	India	India	Ottawa	2				50037
+25/01/2019	08/08/2018	170	Haiti	Haiti	Ottawa	N/A	17/09/2018	130		53959
+26/01/2019	20/09/2018	128	India	India	Ottawa	3				56367
+23/01/2019	26/09/2018	119	Nigeria	Nigeria	Ottawa	5	11/12/2018	43		59355
+26/01/2019	22/08/2018	157	India	India	Ottawa	1				66089
+11/01/2019	20/10/2018	83	India	Singapore	Ottawa	4				66086
+26/01/2019	26/08/2018	153	India	India	Ottawa	2				59801
+25/01/2019	24/07/2018	185	Egypt	United Arab Emirates	Abu Dhabi	4				51355
+25/01/2019	22/08/2018	156	India	India	Ottawa	N/A				53978
+25/01/2019	27/10/2018	90	Nigeria	Nigeria	Ottawa	3	26/11/2018	60		59244
+25/01/2019	17/08/2018	161	India	Netherlands	Ottawa	1	01/11/2018	85		53528
+25/01/2019	06/09/2018	141	India	United States of America		1				55665
+25/01/2019	05/03/2018	326	France	France	Ottawa	2				56584
+25/01/2019	20/08/2018	158	India	India		2				60137
+23/01/2019	02/11/2018	82	Egypt	Saudi Arabia		4				59899
+25/01/2019	31/08/2018	147	China	China	Hong Kong SAR	1	26/11/2018	60		59882
+26/01/2019	26/09/2018	122	Nigeria	Nigeria		2				66031
+23/01/2019	08/06/2018	229	Taiwan, Province of China		Ottawa					47951
+26/01/2019	19/09/2018	129	India	India	Ottawa	2				60915
+25/01/2019	30/08/2018	148	India	India	Ottawa	2	22/01/2019	3		55087
+26/01/2019	26/08/2018	153	India	India	New Delhi	N/A				64298
+25/01/2019	03/09/2018	144	United States of America	United States of America		2				55786
+25/01/2019	05/09/2018	142	France	United States of America		1				65533
+25/01/2019	05/09/2018	142	India	United Arab Emirates	Ottawa	2				65928
+23/01/2019	13/09/2018	132	Pakistan	Pakistan	Ottawa	4				56082
+25/01/2019	04/09/2018	143	India	United States of America		1				55966
+25/01/2019	15/08/2018	163	India	India	Ottawa	N/A				55029
+24/01/2019	24/08/2018	153	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	Sydney	4	19/09/2018	127		63086
+24/01/2019	12/07/2018	196	Bangladesh	Malaysia	Singapore	2	30/08/2018	147		54079
+24/01/2019	19/08/2018	158	India	India	Ottawa	2	09/09/2018	137		54702
+25/01/2019	20/08/2018	158	India	India		1				55913
+25/01/2019	20/08/2018	158	India	United Arab Emirates	Abu Dhabi	2				55284
+24/01/2019	21/08/2018	156	India	India	Ottawa	1				54055
+25/01/2019	16/08/2018	162	India	India	Ottawa	2				53547
+23/01/2019	24/06/2018	213	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Sydney	2				55142
+25/01/2019	31/07/2018	178	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	1				61088
+24/01/2019	30/08/2018	147	India	Sweden	Ottawa	3	18/01/2019	6		58047
+25/01/2019	15/08/2018	163	India	India	Ottawa	N/A				59295
+25/01/2019	14/08/2018	164	South Africa	South Africa		2				53929
+25/01/2019	01/08/2018	177	India	India		2				53952
+24/01/2019	27/07/2018	181	Tunisia	United Arab Emirates	Abu Dhabi	5				51769
+24/01/2019	28/11/2018	57	South Africa	South Africa		3	07/01/2019	17		61880
+25/01/2019	30/05/2018	240	South Africa	South Africa	Ottawa	2				47281
+25/01/2019	15/08/2018	163	India	India	Ottawa	1	31/10/2018	86		60694
+25/01/2019	14/11/2018	72	India	India	Ottawa	1				61732
+25/01/2019	03/08/2018	175	India	India	Ottawa	2	27/08/2018	151		53712
+24/01/2019	20/08/2018	157	Singapore	Singapore		2	08/11/2018	77		60129
+21/01/2019	07/08/2018	167	India	India	Ottawa	1				52598
+25/01/2019	15/08/2018	163	South Africa	South Africa	Ottawa	2				53319
+24/01/2019	15/08/2018	162	Spain	Guatemala	Mexico City	2				57112
+25/01/2019	15/08/2018	163	India	India		N/A				62421
+24/01/2019	08/09/2018	138	India	India	Ottawa	3				56260
+24/01/2019	25/07/2018	183	India	India		3				53127
+18/01/2019	13/07/2018	189	China	China		4	11/11/2018	68		52863
+22/01/2019	14/08/2018	161	India	India	Ottawa					53405
+21/01/2019	28/10/2018	85	Nigeria	Nigeria		3				59369
+22/01/2019	10/06/2018	226	Bangladesh	Bangladesh	Ottawa	2				56417
+22/01/2019	27/11/2018	56	Nigeria	Nigeria		4				63867
+23/01/2019	04/09/2018	141	Russian Federation	Russian Federation		N/A				56644
+21/01/2019	07/08/2018	167	India	Japan	Ottawa	1				65834
+23/01/2019	09/09/2018	136	India	United Arab Emirates		2				64227
+22/01/2019	21/11/2018	62	Nigeria	Nigeria	Sydney	5				61284
+22/01/2019	20/09/2018	124	India	India	Ottawa	3				62592
+22/01/2019	15/06/2018	221	India	India						65808
+22/01/2019	12/09/2018	132	Philippines	Philippines		3				57166
+23/01/2019	19/05/2018	249	Russian Federation	Russian Federation	Ottawa	2	08/12/2018	46		50375
+22/01/2019	30/08/2018	145	Pakistan	Pakistan	Ottawa	3				56175
+23/01/2019	05/09/2018	140	India	India		2				58315
+22/01/2019	20/09/2018	124	India	India	Ottawa	4				56512
+21/01/2019	13/09/2018	130	India	India	Ottawa	3				57475
+22/01/2019	15/06/2018	221	Brazil	Brazil	Mexico	1				60903
+22/01/2019	15/06/2018	221	India	India		3				65361
+22/01/2019	15/06/2018	221	India	India		3				57835
+22/01/2019	13/06/2018	223	Bangladesh	Bangladesh	Sydney	4	13/07/2018	193		49127
+22/01/2019	08/06/2018	228	India	Germany	Vienna	2	20/06/2018	216		48470
+22/01/2019	09/09/2018	135	India	India	Ottawa	3				55467
+22/01/2019	28/08/2018	147	India	India	New Delhi	1				54592
+21/01/2019	11/08/2018	163	India	India	Ottawa	1				53105
+21/01/2019	28/08/2018	146	India	India	Ottawa	2	26/11/2018	56		58580
+21/01/2019	14/08/2018	160	India	India	Ottawa	1				56959
+15/11/2018	13/07/2018	125	Bangladesh	Bangladesh	Ottawa	3				53418
+18/01/2019	11/08/2018	160	India	United States of America		2				54526
+21/01/2019	08/06/2018	227	Belarus	Belarus	Sydney	1				48148
+19/01/2019	15/06/2018	218	India	United Kingdom of Great Britain and Northern Ireland	Ottawa	1				52190
+21/01/2019	07/07/2018	198	India	India	New Delhi	2				65300
+19/01/2019	29/08/2018	143	China	China	Hong Kong SAR	2	14/01/2019	5		55369
+30/11/2018	05/03/2018	270	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Ottawa	2	04/04/2018	240		41386
+18/01/2019	06/08/2018	165	India	Kuwait	Ottawa	1				54190
+19/01/2019	21/10/2018	90	Nigeria	Nigeria		3				62413
+18/01/2019	23/06/2018	209	India	India	Sydney	1	09/07/2018	193		49829
+19/01/2019	11/10/2018	100	Nigeria	Nigeria	Ottawa	3				64438
+19/01/2019	24/07/2018	179	India	India		N/A				65505
+19/01/2019	09/10/2018	102	Nigeria	Nigeria		4				62724
+18/01/2019	09/08/2018	162	Nigeria	Nigeria	Ottawa	1				53900
+19/01/2019	23/07/2018	180	India	India	Ottawa	1				51257
+09/01/2019	14/09/2018	117	Nigeria	United States of America	Sydney					56051
+18/01/2019	02/03/2018	322	Pakistan	Pakistan	Ottawa	3	08/03/2018	316		39389
+14/12/2018	09/05/2018	219	India	United States of America	Ottawa	1				56900
+07/01/2019	02/06/2018	219	Nigeria	Nigeria	Sydney	4			15/10/2018	65447
+17/01/2019	01/08/2018	169	Viet Nam	Viet Nam		2				52027
+10/01/2019	05/08/2018	158	India	India	Ottawa	1	09/10/2018	93		52339
+17/01/2019	18/09/2018	121	Brazil	Brazil		2				56701
+16/01/2019	08/06/2018	222	Trinidad and Tobago	Trinidad and Tobago	Sydney	4	20/06/2018	210		48120
+11/01/2019	26/02/2018	319	China	China	Hong Kong SAR	2	25/04/2018	261	02/05/2018	41834
+15/01/2019	01/07/2018	198	India	United States of America	Montreal	4				49394
+16/01/2019	06/05/2018	255	Brazil	Brazil	Mexico City	2	11/06/2018	219		48373
+16/01/2019	07/07/2018	193	India	India		1				64827
+09/01/2019	02/06/2018	221	Bangladesh	Bangladesh	Sydney	3				47527
+14/01/2019	16/09/2018	120	India	United States of America	Ottawa	3				60608
+07/01/2019	26/06/2018	195	China	China	Sydney	2	11/07/2018	180		52573
+15/01/2019	02/06/2018	227	Brazil	Brazil		N/A				53984
+15/01/2019	08/06/2018	221	India	India	Ottawa	N/A				60235
+14/01/2019	08/11/2018	67	Nigeria	Nigeria	Accra	5				61504
+15/01/2019	01/06/2018	228	India	India		2				47724
+14/01/2019	29/08/2018	138	India	United States of America						65241
+14/01/2019	01/11/2017	439	Jordan	Jordan	Ottawa	2			16/01/2018	36260
+10/01/2019	05/08/2018	158	India	India	Ottawa	N/A				52803
+17/12/2018	14/07/2018	156	Albania	Albania	Rome	1				52191
+15/01/2019	24/07/2018	175	Azerbaijan	Azerbaijan	Ottawa	3				51531
+11/01/2019	22/01/2018	354	Tunisia	Tunisia	Ottawa	2	25/04/2018	261	09/05/2018	39602
+14/01/2019	31/08/2018	136	Mongolia	United States of America	Ottawa					54700
+17/12/2018	04/07/2018	166	India	India	New Delhi	2				49928
+14/01/2019	29/08/2018	138	India	United States of America	Ottawa	3				56668
+07/01/2019	30/06/2018	191	India	United States of America		2				54111
+24/12/2018	15/06/2018	192	Russian Federation	Russian Federation	Sydney	2				53258
+11/01/2019	04/08/2018	160	India	India	Ottawa	1				53408
+11/01/2019	15/06/2018	210	India	India	Ottawa	1				55351
+12/01/2019	09/08/2018	156	India	India		2				64787
+11/01/2019	06/08/2018	158	India		Ottawa	N/A				60706
+09/01/2019	08/10/2018	93	India	Saudi Arabia	Abu Dhabi	3				60386
+07/01/2019	11/07/2018	180	Sri Lanka	Bahrain	Ottawa	2				51396
+10/01/2019	23/07/2018	171	Pakistan	United Arab Emirates	Ottawa	1				59615
+10/01/2019	08/02/2018	336	Viet Nam	Viet Nam		3	16/02/2018	328	10/04/2018	39532
+11/01/2019	05/08/2017	524	Palestine, State of	Lebanon	Paris	1	06/12/2018	36	26/02/2018	36696
+07/01/2019	02/08/2018	158	India	United States of America	Ottawa	1				52131
+18/12/2018	01/08/2018	139	India	United States of America	Ottawa	2				52639
+19/12/2018	30/08/2018	111	Egypt	Germany	Vienna	1				55714
+07/01/2019	26/07/2018	165	Nigeria	Nigeria	Ottawa	1				52715
+09/01/2019	20/06/2018	203	Jamaica	Jamaica	Ottawa	1				64870
+04/01/2019	04/07/2018	184	India	United States of America	Montreal	1	10/12/2018	25		51385
+10/01/2019	13/10/2018	89	Russian Federation	Poland	Warsaw	3				58672
+12/12/2018	10/08/2018	124	India	India	Ottawa	2				54940
+10/01/2019	08/03/2018	308	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Ottawa	2	25/05/2018	230	12/07/2018	41919
+08/01/2019	05/08/2018	156	India	India	Ottawa	3				53703
+09/01/2019	16/06/2018	207	Nigeria	Nigeria	Ottawa	2				61279
+09/01/2019	25/01/2018	349	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Sydney	N/A			06/06/2018	56426
+08/01/2019	25/07/2018	167	Pakistan	Pakistan	Ottawa	1	16/08/2018	145		51749
+09/01/2019	15/06/2018	208	India	United Arab Emirates		4	15/10/2018	86		48425
+09/01/2019	05/07/2018	188	India	India	New Delhi	2				62338
+09/01/2019	02/08/2018	160	Russian Federation	Russian Federation	Warsaw	2				60396
+09/01/2019	15/06/2018	208	India	India	Sydney	2				63927
+08/01/2019	22/01/2018	351	Lebanon	Lebanon	Ottawa	1			11/05/2018	57239
+18/12/2018	31/08/2018	109	Brazil	Brazil		1				54713
+08/01/2019	24/02/2018	318	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Sydney	1			30/04/2018	42022
+07/01/2019	07/09/2018	122	India	United States of America	New Delhi	1				55228
+07/01/2019	30/07/2018	161	Nigeria	Nigeria	Ottawa	3	14/12/2018	24		51884
+08/01/2019	12/06/2018	210	Bangladesh	Bangladesh	Sydney	2				48194
+04/01/2019	18/07/2018	170	Bangladesh	United Kingdom of Great Britain and Northern Ireland	Ottawa	3				51133
+07/01/2019	01/06/2018	220	China	China	Hong Kong SAR	2				47902
+12/12/2018	12/07/2018	153	India	India	New Delhi	3				53175
+07/01/2019	16/07/2018	175	India	India	New Delhi	N/A				62268
+07/01/2019	03/06/2018	218	Bangladesh	Bangladesh	Sydney	1	16/10/2018	83		48873
+07/01/2019	12/06/2018	209	India	India	Sydney	1				55175
+06/01/2019	22/12/2017	380	India	Kuwait	Abu Dhabi	1				45958
+03/01/2019	03/07/2018	184	Brazil	United States of America		2				56143
+24/11/2018	09/07/2018	138	India	United Arab Emirates	Ottawa	3	03/11/2018	21		50846
+03/01/2019	13/07/2017	539	Pakistan	Saudi Arabia	London	4	25/10/2018	70	08/11/2017	50925
+13/12/2018	26/06/2018	170	India	Qatar	Abu Dhabi	4				59531
+04/01/2019	06/08/2018	151	India	India		1				52525
+02/01/2019	03/07/2018	183	India	United States of America	Montreal	1				49711
+04/01/2019	12/07/2018	176	India	United States of America	Montreal	3	07/09/2018	119		50523
+04/01/2019	04/07/2018	184	India	United States of America	Montreal	3				49765
+04/01/2019	20/08/2018	137	India	India	Ottawa	1				62479
+03/01/2019	03/09/2018	122	India	India	Ottawa	3				54809
+04/01/2019	03/08/2018	154	India			1				61776
+24/12/2018	04/07/2018	173	India	India	Ottawa	N/A				49602
+03/01/2019	20/09/2018	105	Pakistan	Pakistan		2	15/10/2018	80		56579
+03/01/2019	01/10/2018	94	Bangladesh	Qatar	London	2				58583
+03/01/2019	17/08/2018	139	Nigeria	United Kingdom of Great Britain and Northern Ireland	London	4				53567
+07/12/2018	03/06/2018	187	Nigeria	Nigeria	Kyiv	7+				47732
+02/01/2019	26/06/2018	190	Nigeria	Nigeria	Sydney	2	25/10/2018	69		50619
+28/12/2018	03/06/2018	208	Ukraine	Ukraine	Sydney	3				47529
+31/12/2018	15/05/2018	230	Nigeria	Nigeria	Sydney	3				47118
+31/12/2018	03/06/2018	211	India	Saudi Arabia	New Delhi	4			26/10/2018	52792
+18/12/2018	26/10/2018	53	Nigeria	Nigeria	Ottawa	4				59166
+31/12/2018	26/07/2018	158	India	India	New Delhi	1				59334
+31/12/2018	24/06/2018	190	Mauritius	Mauritius		5				49849
+31/12/2018	14/03/2018	292	Costa Rica	Costa Rica						54300
+31/12/2018	10/07/2018	174	Nigeria	Nigeria	Ottawa	1				50699
+21/12/2018	01/09/2018	111	India	India		3	27/09/2018	85		55014
+28/12/2018	29/06/2018	182	India	United States of America		2	06/12/2018	22		49298
+19/12/2018	30/07/2018	142	Nigeria	Nigeria		N/A	21/08/2018	120		52790
+15/12/2018	11/08/2018	126	India	India		2	10/11/2018	35		56024
+24/12/2018	14/07/2018	163	India	India	Ottawa	2				51852
+19/12/2018	01/08/2018	140	Congo (Democratic Republic of the)	South Africa		4				57278
+18/12/2018	28/12/2017	355	Nigeria	United Arab Emirates	Ottawa	2			14/09/2018	49889
+21/12/2018	14/06/2018	190	India	India	Sydney	2				61462
+24/12/2018	15/07/2018	162	India	India		N/A				55847
+24/12/2018	22/07/2018	155	India	India	New Delhi	2	12/09/2018	103		60859
+13/12/2018	25/07/2018	141	India	United Arab Emirates	Ottawa	3				53687
+12/12/2018	09/07/2018	156	Algeria	Algeria	Paris	3	19/11/2018	23		50805
+19/12/2018	26/02/2018	296	Pakistan	Pakistan	Ottawa	N/A				56833
+21/12/2018	27/07/2018	147	India	Singapore	Ottawa	3				51607
+21/12/2018	13/06/2018	191	India	India	Sydney	3			01/11/2018	48232
+14/11/2018	26/06/2018	141	Egypt	United Arab Emirates	Abu Dhabi	1				49076
+21/12/2018	31/08/2018	112	India	India	Sydney	1				55843
+21/12/2018	21/06/2018	183	India	United States of America		3				54036
+21/12/2018	28/07/2018	146	Dominican Republic	Dominican Republic		2				52747
+21/12/2018	15/06/2018	189	India	India	Ottawa	1				48401
+21/12/2018	22/07/2018	152	India	India	Ottawa	2				52519
+21/12/2018	16/07/2018	158	India	India	Ottawa	1				50775
+21/12/2018	16/07/2018	158	Brazil	Brazil		3				50722
+19/12/2018	26/06/2018	176	India	India	Ottawa	3	13/07/2018	159		49275
+18/12/2018	20/06/2018	181	India	India	Ottawa	2				48917
+21/12/2018	20/06/2018	184	India	Spain		1				48658
+21/12/2018	15/06/2018	189	India	India	Sydney	2	28/06/2018	176		49434
+21/12/2018	14/07/2018	160	India	India	Ottawa	2				51413
+21/12/2018	07/06/2018	197	India	India	New Delhi	1				56747
+20/12/2018	07/09/2018	104	India	Qatar	London	3	08/11/2018	42		55257
+21/12/2018	01/06/2018	203	India	India	New Delhi	2				47466
+19/12/2018	27/12/2017	357	Ukraine	Ukraine		3				58858
+18/12/2018	07/08/2018	133	Brazil	Brazil		2				63188
+20/12/2018	15/06/2018	188	India	India	Sydney	1				63609
+20/12/2018	17/07/2018	156	Brazil	Brazil	Ottawa	1				50898
+20/12/2018	13/06/2018	190	India	India	Ottawa	2				48339
+18/12/2018	20/09/2018	89	Sudan	United Arab Emirates		N/A				58429
+20/12/2018	03/06/2018	200	India	India	Ottawa	3				47855
+19/12/2018	01/08/2018	140	India	United States of America	Ottawa	N/A	23/08/2018	118		53906
+19/12/2018	18/07/2018	154	Kazakhstan	Kazakhstan		2				58691
+19/12/2018	27/04/2018	236	India	India	Ottawa					49764
+19/12/2018	30/08/2018	111	Brazil	Brazil		4				61193
+19/12/2018	07/09/2018	103	Romania	Romania	Bucharest	2				58354
+19/12/2018	13/06/2018	189	India	India	Sydney	1				48411
+18/12/2018	20/08/2018	120	Nigeria	Nigeria		4	17/11/2018	31		59750
+19/12/2018	14/06/2018	188	India	India	Ottawa	3				57433
+18/12/2018	02/08/2018	138	India	United States of America		1				52344
+19/12/2018	29/08/2018	112	Ukraine	Ukraine		2	05/12/2018	14		57055
+18/12/2018	29/07/2018	142	Bangladesh	Bangladesh	Ottawa	3				52596
+19/12/2018	09/05/2018	224	Egypt	Egypt	Ottawa	1				54260
+18/12/2018	27/07/2018	144	India	United States of America	Ottawa	2				51685
+18/12/2018	22/08/2018	118	Germany	Germany		1				54048
+19/12/2018	29/07/2018	143	Brazil	Brazil	Ottawa	3				54872
+19/12/2018	30/08/2018	111	India	India		1				58151
+18/12/2018	20/07/2018	151	Zimbabwe	Zimbabwe	Ottawa	2				52504
+18/12/2018	08/05/2018	224	Russian Federation	Russian Federation	Ottawa	2				45736
+19/12/2018	26/09/2018	84	Azerbaijan	Czechia	Vienna	3				56619
+19/12/2018	10/09/2018	100	Nigeria	Australia	Ottawa	3				63471
+18/12/2018	23/07/2018	148	Nigeria	Nigeria		4				55008
+28/11/2018	26/11/2017	367	Bangladesh	Bangladesh	Ottawa	N/A	20/12/2017	343	05/01/2018	35474
+12/12/2018	30/05/2018	196	India	India	New Delhi	3	27/11/2018	15		53033
+17/12/2018	05/07/2018	165	India	India	New Delhi	4				50691
+14/11/2018	10/07/2018	127	India	India	Ottawa	2				59034
+17/12/2018	05/07/2018	165	India	India	New Delhi	1				60813
+17/12/2018	04/07/2018	166	India	India	New Delhi	1				52606
+12/12/2018	07/08/2018	127	India	India	Ottawa	3				58330
+17/12/2018	05/07/2018	165	India	India	New Delhi					49707
+17/12/2018	03/07/2018	167	India	India	New Delhi	1				50779
+11/12/2018	26/01/2018	319	Nigeria	Nigeria	Accra	N/A	06/02/2018	308		40952
+13/11/2018	03/08/2018	102	Pakistan	Singapore	Singapore	4	06/09/2018	68		54645
+22/11/2018	24/04/2018	212	India	United States of America		1				50316
+12/12/2018	16/06/2018	179	India	India	Ottawa	1				55704
+04/12/2018	30/06/2018	157	Trinidad and Tobago			2				58440
+11/12/2018	15/06/2018	179	India	India	Ottawa	3	24/10/2018	48		49341
+11/12/2018	03/10/2018	69	India	India	Ottawa	2				59364
+14/12/2018	18/06/2018	179	India	United Arab Emirates	Ottawa	1				62655
+12/12/2018	30/07/2018	135	China	China						55614
+07/12/2018	22/12/2017	350	India	India	Ottawa	1				36903
+19/11/2018	20/08/2018	91	India	India	New Delhi	4				54642
+12/12/2018	30/07/2018	135	British Indian Ocean Territory	India	New Delhi	2				63056
+12/12/2018	18/08/2018	116	India	India	Ottawa	3				62957
+11/12/2018	27/08/2018	106	India	India	Ottawa	2				54263
+12/12/2018	29/08/2018	105	India	India	Ottawa	2				56197
+11/12/2018	31/05/2018	194	Brazil	Brazil	Ottawa	1				53352
+07/12/2018	11/04/2018	240	India	India	Ottawa	4				43950
+12/12/2018	27/07/2018	138	India	India		2				58708
+11/12/2018	19/07/2018	145	Brazil	Brazil	Sao Paulo	1	30/11/2018	11		55299
+12/12/2018	18/06/2018	177	India	India	Ottawa	2	03/07/2018	162		49110
+12/12/2018	17/09/2018	86	India	India	Ottawa	3				56030
+12/12/2018	02/10/2018	71	India	India		1				57657
+11/12/2018	30/07/2018	134	Portugal	Spain	Paris	1				53780
+05/11/2018	20/07/2018	108	Ghana	United Kingdom of Great Britain and Northern Ireland	London					62945
+07/12/2018	30/05/2018	191	India	India	Ottawa	2				47697
+06/12/2018	07/07/2018	152	India	India	Ottawa	1				49933
+07/12/2018	10/08/2018	119	India	India	Ottawa	2				56728
+06/12/2018	28/01/2018	312	India	India	New Delhi	1	18/05/2018	202		38792
+05/12/2018	18/12/2017	352	Lebanon	United Arab Emirates	Ottawa	1	07/08/2018	120		46619
+06/12/2018	13/02/2018	296	India	India	New Delhi	1	20/02/2018	289		39866
+28/11/2018	23/07/2018	128	India	Canada	Ottawa					59092
+06/12/2018	25/07/2017	499	India	India	Ottawa	2	04/07/2018	155	25/08/2017	25092
+07/12/2018	08/06/2018	182	India	India	Ottawa	3				51398
+06/12/2018	09/05/2018	211	India	India	Ottawa	3				45840
+07/12/2018	04/08/2018	125	India	India	Ottawa	2				53015
+19/09/2018	23/05/2018	119	Pakistan	Canada	Islamabad	1				62739
+07/12/2018	12/05/2018	209	India	India	Ottawa	3				46054
+07/12/2018	09/06/2018	181	India	India	Ottawa	1	21/06/2018	169		48219
+11/11/2018	10/07/2018	124	India	United Arab Emirates	Abu Dhabi	N/A				53141
+07/12/2018	05/09/2018	93	Nigeria	Nigeria	Ottawa	4	17/11/2018	20		55504
+07/12/2018	02/08/2018	127	India	India	Ottawa	3	23/08/2018	106		52728
+04/12/2018	19/06/2018	168	India	United States of America		1				56908
+07/12/2018	11/08/2018	118	Ghana	Ghana	Ottawa	3	18/10/2018	50		54482
+05/12/2018	27/03/2018	253	Morocco	United Arab Emirates	Ottawa	3	20/04/2018	229		45825
+06/12/2018	08/02/2018	301	India	India	New Delhi	N/A	08/05/2018	212		39561
+07/12/2018	29/03/2018	253	India	India	Ottawa	4	24/04/2018	227		56246
+07/12/2018	16/08/2018	113	Nigeria	Nigeria		4				55229
+07/12/2018	01/07/2018	159	India	India	Ottawa	3				49938
+07/12/2018	12/05/2018	209	India	India	Ottawa	3	23/05/2018	198		46446
+06/12/2018	31/07/2018	128	Nigeria	Nigeria		1				51795
+07/12/2018	24/07/2018	136	India	India	Ottawa					51492
+07/12/2018	31/07/2018	129	India	India		2				54060
+06/12/2018	01/08/2018	127	India	India	Ottawa	2				59973
+06/12/2018	29/07/2018	130	Nigeria	Nigeria	Ottawa	2				52994
+07/12/2018	10/08/2018	119	India	India		3				55264
+06/12/2018	13/08/2018	115	India	India	Ottawa	3	20/10/2018	47		55119
+07/12/2018	22/06/2018	168	India	India	Ottawa	2				49291
+07/12/2018	22/08/2018	107	India	India	Ottawa	2				58728
+07/12/2018	20/08/2018	109	India	India	Ottawa	2				54071
+07/12/2018	25/07/2018	135	India	India	Ottawa	3				52390
+05/12/2018	05/07/2018	153	Trinidad and Tobago	Trinidad and Tobago	Port of Spain	1				49998
+21/11/2018	22/10/2017	395	China	China	Hong Kong SAR	1			06/12/2017	35280
+26/11/2018	28/08/2018	90	India	United States of America	Ottawa	1				54392
+05/12/2018	11/09/2018	85	Nigeria	United Kingdom of Great Britain and Northern Ireland	Sydney	3				55679
+03/12/2018	26/07/2018	130	India	United States of America	Ottawa	N/A				53018
+04/12/2018	18/06/2018	169	India	United States of America						48504
+19/11/2018	09/06/2018	163	India	India	New Delhi	2				58223
+20/11/2018	25/04/2018	209	India	United States of America		2	12/10/2018	39		47963
+03/12/2018	21/06/2018	165	India	United States of America						48848
+03/12/2018	17/06/2018	169	India	United States of America		1				58199
+23/11/2018	20/07/2018	126	India	France	Paris	3				53294
+30/11/2018	26/07/2018	127	India	Australia	Sydney	2				57971
+29/11/2018	29/05/2018	184	Venezuela (Bolivarian Republic of)	Chile	Buenos Aires	1				61016
+30/11/2018	13/09/2018	78	Nigeria	Zambia		5				57197
+22/11/2018	21/07/2018	124	Morocco	Morocco						62162
+21/11/2018	10/06/2018	164	India	United States of America		2				48622
+30/11/2018	29/05/2018	185	Brazil	Brazil	Sao Paulo	1	08/06/2018	175		47194
+30/11/2018	13/08/2018	109	Barbados	Barbados	Ottawa	3				53335
+21/11/2018	20/07/2018	124	India	India		3				57229
+28/11/2018	13/07/2018	138	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	N/A				53535
+12/11/2018	19/06/2017	511	India	United Arab Emirates	London	1	22/02/2018	263	09/01/2018	24201
+29/11/2018	23/07/2018	129	Dominican Republic	Dominican Republic	Ottawa	2				54438
+30/11/2018	17/04/2018	227	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	Ottawa	2	26/10/2018	35		45418
+30/11/2018	24/07/2018	129	Sri Lanka	Sri Lanka	Ottawa	2				57793
+29/11/2018	26/05/2018	187	Mauritius	Australia	Sydney	1	06/06/2018	176		50422
+29/11/2018	01/07/2018	151	Dominican Republic	Dominican Republic	Ottawa	1				49363
+29/11/2018	21/08/2018	100	Australia	Australia		1				53924
+29/11/2018	30/05/2018	183	Kenya	Kenya	Ottawa	1				47349
+14/11/2018	22/05/2018	176	Sri Lanka	Sri Lanka	Ottawa	2				48954
+29/11/2018	18/07/2018	134	Nigeria	Australia			14/11/2018	15		60039
+29/11/2018	11/09/2018	79	India	New Zealand		1				55453
+05/11/2018	06/07/2018	122	India	United States of America		3				53664
+21/11/2018	22/05/2018	183	Brazil	United States of America		4	09/11/2018	12		50825
+28/11/2018	03/04/2018	239	India	Thailand	Ottawa	1				47706
+20/11/2018	18/07/2018	125	India	India		1				61830
+21/11/2018	23/06/2018	151	India	India	Ottawa	1				53305
+24/11/2018	13/11/2017	376	Algeria	Algeria	Ottawa	3	29/11/2017	360	20/12/2017	34208
+23/11/2018	19/07/2018	127	India	Saudi Arabia	Abu Dhabi	4				51198
+26/11/2018	27/08/2018	91	United States of America	United States of America	Ottawa	2	19/10/2018	38		54342
+26/11/2018	29/08/2018	89	India	United States of America	Ottawa	1				54530
+20/11/2018	18/04/2018	216	India	India		1				44405
+26/11/2018	25/08/2018	93	India	United States of America		1				54121
+26/11/2018	23/08/2018	95	India	United States of America		2				54225
+26/11/2018	13/07/2018	136	India	United States of America	Ottawa	3				53963
+08/11/2018	11/08/2018	89	India	India	Ottawa	2				52875
+02/10/2018	31/05/2018	124	China	United States of America	Ottawa	1	21/09/2018	11		54345
+22/11/2018	13/06/2018	162	India	United States of America		1				52647
+24/11/2018	22/04/2018	216	India	United Arab Emirates		N/A	27/04/2018	211		51870
+23/11/2018	08/09/2017	441	Palestine, State of	United Arab Emirates	Abu Dhabi	1	04/01/2018	323		29142
+24/11/2018	04/09/2018	81	Turkey	Turkey	Ankara	1	09/11/2018	15		55920
+24/11/2018	20/07/2018	127	Greece	Spain	Paris	2				51258
+23/11/2018	19/07/2018	127	India	Kuwait	Ottawa	2				51072
+22/11/2018	15/09/2018	68	Pakistan	Pakistan	London	1	15/11/2018	7		55953
+15/11/2018	23/07/2018	115	India	India	Ottawa	N/A				58409
+14/11/2018	31/07/2018	106	Brazil	Brazil	Ottawa	2				53707
+21/11/2018	08/04/2018	227	India	India	Ottawa	2				44144
+24/11/2018	24/07/2018	123	Belgium	Belgium	Ottawa	4				51342
+21/11/2018	29/08/2018	84	Nigeria	Nigeria	Ottawa	1				55031
+05/11/2018	07/06/2018	151	India	India	Ottawa	N/A				47911
+23/11/2018	24/06/2018	152	Pakistan	Saudi Arabia	Vienna	3				50256
+21/11/2018	23/07/2018	121	India	India	Ottawa	2	14/08/2018	99		59514
+19/11/2018	27/06/2018	145	India	India	New Delhi	1				57478
+22/11/2018	23/07/2018	122	Morocco	Morocco	Ottawa		07/11/2018	15		51253
+21/11/2018	01/04/2018	234	India	India	New Delhi	1				46637
+23/11/2018	03/06/2018	173	India	India	New Delhi	3				47510
+30/10/2018	18/04/2018	195	India	United States of America	Ottawa	2	29/09/2018	31		48387
+20/11/2018	04/08/2018	108	India	India		N/A				54926
+22/11/2018	03/07/2018	142	Pakistan	Pakistan		2				51645
+21/11/2018	06/07/2018	138	Brazil	Brazil	Ottawa	1				48265
+22/11/2018	11/09/2018	72	Pakistan	Pakistan	London	N/A				60465
+20/11/2018	27/07/2018	116	India	India	Ottawa	1				60524
+21/11/2018	17/07/2018	127	India	India	Ottawa	2				53861
+20/11/2018	17/07/2018	126	Nigeria	Nigeria		1				61308
+20/11/2018	19/09/2018	62	Nigeria	Nigeria		3				61303
+14/11/2018	12/07/2018	125	India	India	New Delhi	3				61295
+07/11/2018	23/04/2017	563	Pakistan	Australia	London	4				19025
+20/11/2018	25/07/2018	118	India	India	Ottawa	3				59784
+20/11/2018	14/07/2018	129	Nigeria	Nigeria	Ottawa	1				50974
+21/11/2018	01/07/2018	143	India	India	Ottawa	1				50460
+20/11/2018	25/07/2018	118	India	India	Ottawa	2				52439
+20/11/2018	29/08/2017	448	Egypt	Oman	London	5	14/02/2018	279	18/02/2018	44042
+20/11/2018	25/07/2018	118	Nigeria	Nigeria	Ottawa	5			03/10/2018	54842
+19/11/2018	05/07/2018	137	Pakistan	Pakistan	Vienna	1				55571
+20/11/2018	03/08/2017	474	Pakistan	Pakistan	London	1	29/11/2017	356	15/11/2017	26090
+16/11/2018	01/08/2018	107	India	United States of America						53231
+15/11/2018	12/07/2018	126	India	India		2	31/07/2018	107		56127
+19/11/2018	07/06/2018	165	India	India	New Delhi	3				47884
+19/11/2018	25/07/2018	117	India	United States of America	Ottawa	1				51577
 03/10/2018	05/06/2018	120	India	India	Ottawa	3				49011
-03/10/2018	06/06/2018	119	Pakistan	Pakistan	Ottawa	2				49403
-03/10/2018	29/03/2018	188	India	India	Ottawa	2				49624
-03/10/2018	04/06/2018	121	India	India	Ottawa	N/A				50015
-03/10/2018	05/06/2018	120	India	India	Ottawa	2				50336
-03/10/2018	04/06/2018	121	India	India		N/A				50484
-03/10/2018	22/06/2018	103	India	United States of America		N/A				50927
-03/10/2018	19/05/2018	137	India	Oman	Abu Dhabi	3	08/06/2018	117		51068
-03/10/2018	28/05/2018	128	Uganda	Uganda	Ottawa		20/09/2018	13		51436
-03/10/2018	04/06/2018	121	India	India	Ottawa	2	24/09/2018	9		51996
-03/10/2018	18/01/2018	258	Pakistan	Pakistan	London	1	10/07/2018	85		52421
-03/10/2018	15/08/2018	49	India	United States of America	Ottawa	2				53957
-03/10/2018	14/08/2018	50	India	Saudi Arabia	Riyadh	1	26/09/2018	7		54262
-03/10/2018	29/03/2018	188	Nigeria	Nigeria	Ottawa	3				54932
-03/10/2018	13/08/2018	51	India	United States of America	Ottawa	2				54962
-03/10/2018	19/08/2018	45	Bangladesh	Bangladesh	Singapore	1				55551
-03/10/2018	24/05/2018	132	Bangladesh	Bangladesh		1				56131
-03/10/2018	15/04/2018	171	India	India	Ottawa	N/A				56269
-03/10/2018	12/08/2018	52	India	United States of America	Ottawa	1				56451
-03/10/2018	19/06/2018	106	India	India		2				56622
-03/10/2018	06/06/2018	119	Kenya	Kenya		1				56804
-04/10/2018	20/10/2017	349	Lebanon	Lebanon	Ottawa	N/A				35237
-04/10/2018	05/06/2018	121	Ukraine	Ukraine	Kyiv	1	09/07/2018	87		47747
-04/10/2018	30/04/2018	157	India	United States of America		2				48063
-04/10/2018	01/06/2018	125	Morocco	Morocco		1				48415
-04/10/2018	06/06/2018	120	India	United States of America	Ottawa	1				48982
-04/10/2018	19/06/2018	107	Pakistan	United States of America	Ottawa	2				49729
-04/10/2018	06/06/2018	120	India	India	Ottawa	1				50584
-04/10/2018	06/06/2018	120	India	United States of America		1				51583
-04/10/2018	30/07/2018	66	India	India						52139
-04/10/2018	06/06/2018	120	India	United Kingdom of Great Britain and Northern Ireland	Ottawa	2	11/07/2018	85		52240
-04/10/2018	15/08/2018	50	India	United States of America		1				53713
-04/10/2018	16/08/2018	49	India	United States of America	Ottawa					54028
+19/11/2018	08/07/2018	134	India	United States of America	Ottawa	3				50835
+19/11/2018	19/08/2017	457	Paraguay	United Kingdom of Great Britain and Northern Ireland	London	2			07/03/2018	29697
+06/11/2018	09/07/2018	120	India	United States of America	Ottawa	3				51733
+14/11/2018	16/08/2018	90	India	India	Ottawa	3				56801
+19/11/2018	04/08/2017	472	Pakistan	Pakistan	London	1	06/11/2018	13		34112
+15/11/2018	16/12/2017	334	Pakistan	Pakistan	Ottawa	4	26/01/2018	293	30/01/2018	36094
+19/11/2018	28/06/2018	144	India	India	New Delhi	2				50777
+19/11/2018	19/06/2018	153	India	India	New Delhi	2				48801
+19/11/2018	01/06/2018	171	India	India	New Delhi					61056
+19/11/2018	03/06/2018	169	India	India	New Delhi					61055
+19/11/2018	19/06/2018	153	India	India	New Delhi	2				59185
+19/11/2018	19/06/2018	153	India	India	New Delhi	2				48607
+15/11/2018	07/07/2018	131	Nepal	United States of America		1	02/11/2018	13		49932
+13/11/2018	07/09/2018	67	Pakistan	United Arab Emirates	London					60266
+14/11/2018	14/08/2018	92	India	India	Ottawa	3				53251
+14/11/2018	23/08/2018	83	India	United Arab Emirates	London	4				54248
+15/11/2018	10/07/2018	128	Nigeria	Nigeria		3				50261
+14/11/2018	09/07/2018	128	Nigeria	Nigeria	Ottawa	4	25/07/2018	112		51470
+16/11/2018	07/06/2018	162	India	India	Sydney	2				49282
+12/11/2018	01/10/2017	407	Ukraine	Ukraine	Ottawa		04/09/2018	69	01/11/2017	31037
+15/11/2018	11/08/2018	96	India	India		2				57606
+14/11/2018	12/07/2018	125	India	India	Ottawa	1	06/09/2018	69		53249
+15/11/2018	04/08/2018	103	India	United States of America						60929
+15/11/2018	09/07/2018	129	India	India	Ottawa	3				51082
+15/11/2018	25/07/2018	113	Turkey	United States of America	Ottawa	2	16/08/2018	91		52521
+06/11/2018	09/07/2018	120	Bangladesh	United States of America		1				54217
+25/09/2018	20/05/2018	128	India	India	Ottawa	2				54375
+15/11/2018	22/07/2018	116	India	India	Ottawa	1				52457
+15/11/2018	23/07/2018	115	India	India	Ottawa	2				58116
+24/10/2018	11/05/2018	166	India	India	New Delhi	4				46284
+18/09/2018	27/05/2018	114	India	India		3	19/09/2018			48785
+02/11/2018	14/07/2018	111	Pakistan	Pakistan	Ottawa	1				53456
+16/11/2018	28/06/2018	141	India	Australia		1				57761
+08/11/2018	17/09/2018	52	Philippines	Philippines	Manila					56389
+15/11/2018	17/08/2018	90	India	India		3				55471
+14/11/2018	05/11/2017	374	Russian Federation	Russian Federation		2			19/12/2017	34491
+14/11/2018	24/07/2018	113	Sri Lanka	Sri Lanka	Ottawa	2				51397
+15/11/2018	30/06/2018	138	Brazil	Brazil	Ottawa	2				49454
+09/11/2018	08/07/2018	124	Algeria	Algeria	Ottawa	2				59803
+15/11/2018	08/09/2018	68	Germany	United Kingdom of Great Britain and Northern Ireland		3				55265
+15/11/2018	06/06/2018	162	India	India		2	11/10/2018	35		55899
+15/11/2018	08/08/2018	99	India	India		3				60324
+15/11/2018	02/12/2017	348	China	China	Ottawa	2			05/01/2018	35607
+15/11/2018	17/07/2018	121	Russian Federation	Russian Federation		2				51074
+27/09/2018	19/03/2018	192	Pakistan	Saudi Arabia	London	2	24/04/2018	156		43558
+15/11/2018	06/07/2018	132	Russian Federation	Russian Federation		2				49868
+14/11/2018	23/07/2018	114	South Africa	South Africa	Ottawa	1				56586
+11/10/2018	29/06/2018	104	India	China	Hong Kong SAR	3				49194
+15/11/2018	17/08/2018	90	Zimbabwe	Zimbabwe		1	13/09/2018	63		53693
+15/11/2018	19/07/2018	119	India	India	Ottawa	3	08/08/2018	99		52091
+14/11/2018	29/08/2018	77	Sri Lanka	Sri Lanka		4				59698
+15/11/2018	16/08/2018	91	India	India		3				54042
+15/11/2018	23/07/2018	115	Viet Nam	Singapore		2				51308
+15/11/2018	09/07/2018	129	South Africa	South Africa	Ottawa	4	28/09/2018	48		50356
+15/11/2018	23/05/2018	176	South Africa	South Africa	Pretoria	2				58504
+15/11/2018	20/09/2018	56	Nigeria	Nigeria		3	02/11/2018	13		56899
+15/11/2018	04/08/2018	103	India	India	Ottawa	2				52489
+14/11/2018	05/06/2018	162	India	United States of America		2				47650
+15/11/2018	21/06/2018	147	Brazil	Brazil	Ottawa	2	16/10/2018	30		59991
+14/11/2018	07/08/2018	99	India	India	Ottawa	3				52524
+14/11/2018	12/06/2018	155	India	United States of America	Ottawa	2				51494
+14/11/2018	07/07/2018	130	India	India	Ottawa	2	23/07/2018	114		49850
+15/11/2018	13/07/2018	125	India	India		1				54471
+14/11/2018	13/07/2018	124	Pakistan	Pakistan	Kyiv	1	31/07/2018	106		50501
+13/11/2018	02/03/2018	256	Cameroon	Portugal	Ottawa	3				41769
+14/11/2018	29/08/2017	442	Pakistan	United Arab Emirates	London	4	24/10/2018	21		29286
+14/11/2018	25/08/2017	446	Lebanon	Lebanon	Ottawa	1			22/09/2017	27946
+14/11/2018	04/03/2018	255	Egypt	Qatar		1				41239
+09/11/2018	03/07/2018	129	Pakistan	Pakistan		1				55719
+13/11/2018	05/06/2018	161	India		Ottawa	2				53239
+12/10/2018	16/10/2017	361	Turkey	Turkey	Paris	1				33503
+09/11/2018	30/06/2018	132	Morocco							49763
+13/11/2018	31/08/2018	74	Viet Nam	Thailand	Singapore	2				55110
+27/10/2018	28/06/2018	121	India	India	Ottawa					58615
+08/11/2018	08/07/2018	123	Bangladesh	Bangladesh		3				49936
+07/11/2018	19/07/2018	111	Pakistan	Pakistan	Ottawa	3				59329
+09/11/2018	18/06/2018	144	Algeria	Algeria	Paris		20/07/2018	112		58252
+09/11/2018	22/07/2018	110	Pakistan	Saudi Arabia	London	5	12/10/2018	28		58253
+31/10/2018	14/07/2018	109	Pakistan	Pakistan	Kyiv	2	01/08/2018	91		52514
+31/10/2018	14/07/2018	109	Pakistan	Pakistan	Kyiv	2	01/08/2018	91		54053
+05/11/2018	05/07/2018	123	India	India						49884
+06/11/2018	29/06/2018	130	India	Oman	Ottawa	3	24/10/2018	13		49658
+08/11/2018	30/01/2018	282	Nigeria	Nigeria	Kyiv	5				39685
+08/11/2018	29/08/2018	71	India	India	Ottawa	3				58368
+09/11/2018	12/07/2018	120	India	India	Ottawa	1				60240
+06/11/2018	08/07/2018	121	India	India		3				51431
+09/11/2018	29/06/2018	133	Nigeria	Nigeria	Ottawa	4	09/10/2018	31		51638
+06/11/2018	31/07/2018	98	India	India	Bengaluru (Bangalore)	3				56309
+28/09/2018	19/12/2017	283	India	India	New Delhi	1				36498
+08/11/2018	08/06/2018	153	India	India	Sydney	2				47964
+24/10/2018	10/05/2018	167	India	India	New Delhi	2				52680
+07/11/2018	12/07/2018	118	Nepal	United States of America		1				54176
+08/11/2018	09/07/2018	122	India	India	Ottawa	2				50606
+18/09/2018	14/07/2018	66	Nigeria	Nigeria		4				52122
+30/10/2018	25/05/2018	158	Pakistan	Pakistan	London	2	05/09/2018	55		47137
+08/11/2018	09/07/2018	122	India	India	Ottawa	1				48455
+08/11/2018	04/08/2018	96	India	India		1				54276
+20/09/2018	16/05/2018	127	India	India	Ottawa	2				46361
+01/11/2018	06/07/2018	118	India	United States of America	Ottawa	3				56700
+11/10/2018	13/06/2018	120	India				26/06/2018	107		54958
+02/10/2018	07/08/2018	56	Nigeria	United States of America	Ottawa					59763
+06/11/2018	06/07/2018	123	India	India						52700
+06/11/2018	02/08/2018	96	India	India		1				52942
 04/10/2018	16/08/2018	49	Cameroon	Cameroon		5				54591
-04/10/2018	15/08/2018	50	India	United States of America		1				55041
-04/10/2018	20/10/2017	349	Lebanon	Lebanon	Ottawa	1			30/11/2017	56103
+29/10/2018	06/12/2017	327	Pakistan	Bahrain	Abu Dhabi	2				35758
+06/11/2018	07/07/2018	122	Pakistan	United Arab Emirates	Ottawa	1				59559
+06/11/2018	09/07/2018	120	India	India	Ottawa	N/A				50064
+05/11/2018	08/07/2018	120	India	India	Ottawa	2				51259
+05/11/2018	13/06/2018	145	India	India		1				49086
+01/11/2018	26/07/2018	98	India	Saudi Arabia	London	5				59951
+05/11/2018	08/07/2018	120	India	India	Ottawa	1				50459
+06/11/2018	09/07/2018	120	India	India	Ottawa	3				58582
+05/11/2018	06/07/2018	122	India	United Arab Emirates	Ottawa	2				49999
+16/10/2018	05/05/2018	164	Pakistan	Oman	Abu Dhabi	4				45676
+05/11/2018	08/07/2018	120	United States of America	United States of America	Ottawa	N/A				49896
+30/10/2018	23/05/2017	525	Iran (Islamic Republic of)	Australia		1			07/05/2018	27520
+01/11/2018	06/07/2018	118	India	United States of America	Ottawa	2				50091
+31/10/2018	31/01/2018	273	Pakistan	Pakistan	London	N/A	15/10/2018	16		39946
+01/11/2018	11/05/2018	174	India	United States of America	Ottawa	2				50081
+01/11/2018	07/07/2018	117	India	India						55601
+01/11/2018	06/07/2018	118	India	United States of America	Ottawa	2				55771
+02/11/2018	14/03/2018	233	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Ottawa	1				42939
+01/11/2018	08/07/2018	116	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Ottawa	N/A				59679
+01/11/2018	21/06/2018	133	Egypt	Egypt	Ottawa	1				48883
+01/11/2018	02/07/2018	122	India	India	Ottawa	2				50032
+01/11/2018	07/07/2018	117	India	India	Ottawa	2				57325
+02/11/2018	05/07/2018	120	India	India	Ottawa	3				59404
+17/10/2018	20/04/2018	180	Nigeria	Nigeria	Kyiv	6				44942
+22/09/2018	07/05/2018	138	India	India						45565
+02/11/2018	01/07/2018	124	India	India	Ottawa	2				49898
+01/11/2018	10/07/2018	114	El Salvador	El Salvador	Mexico City	1				50826
+18/10/2018	25/04/2018	176	India	United States of America		2				46122
+01/11/2018	28/03/2018	218	Nigeria	Nigeria	Kyiv	3				48821
+08/10/2018	04/05/2018	157	Syrian Arab Republic	Saudi Arabia	London	N/A	12/05/2018	149		55039
+13/09/2018	22/05/2018	114	India	India	New Delhi	1				54985
+31/10/2018	21/05/2018	163	Pakistan	Saudi Arabia		2	01/07/2018	122		59005
+18/10/2018	31/07/2018	79	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	4	09/08/2018	70		56607
+30/10/2018	14/01/2018	289	South Africa	South Africa		2				38476
+25/10/2018	29/04/2018	179	India	United States of America	Ottawa	2				45449
+16/10/2018	13/06/2018	125	India	India	New Delhi	N/A				56055
+26/10/2018	22/05/2017	522	Pakistan	United Arab Emirates	London	1				31882
+26/10/2018	25/05/2017	519	Pakistan	United Arab Emirates	London	1			27/11/2017	32510
+30/10/2018	13/01/2018	290	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	1				40269
+26/10/2018	26/03/2018	214	Pakistan	Pakistan	London	4				43036
+29/10/2018	01/07/2018	120	Nigeria	Nigeria	Ottawa	3				49696
+23/10/2018	23/05/2018	153	Pakistan	Pakistan	London	3				47552
+30/10/2018	22/06/2018	130	Nigeria	Nigeria		3	06/08/2018	85		51386
+30/10/2018	22/06/2018	130	Nigeria	Nigeria		3	06/08/2018	85		49967
+27/10/2018	30/06/2018	119	India	India	Ottawa	1				49414
+29/10/2018	16/05/2018	166	India	Kuwait	Vienna	3	16/10/2018	13		46477
+10/10/2018	30/06/2018	102	India	Bahrain	Ottawa	4				51829
+27/10/2018	22/06/2018	127	India	South Africa		3				48756
+27/10/2018	23/06/2018	126	India	India	Ottawa	3				50194
+25/10/2018	08/05/2017	535	Kenya	Kenya	Nairobi	1	26/09/2017	394	03/10/2017	35377
+27/10/2018	21/06/2018	128	Pakistan	Pakistan	Ottawa	1				49758
+27/10/2018	23/06/2018	126	India	United Arab Emirates	Abu Dhabi	3				48896
+27/10/2018	01/07/2018	118	India	India	Ottawa	1				49441
+15/10/2018	30/07/2018	77	Ghana	Ghana	Accra	4				59204
+26/10/2018	22/06/2018	126	India	United Arab Emirates	Ottawa	3				59045
+26/10/2018	28/06/2018	120	India	India	Ottawa	3				49180
+27/10/2018	04/08/2018	84	India	India	Ottawa	2	25/08/2018	63		52270
+04/10/2018	30/04/2018	157	India	United States of America		2				48063
+25/10/2018	08/04/2018	200	Jordan	United Arab Emirates	Vienna	5	13/04/2018	195		49905
+26/10/2018	17/04/2018	192	Nigeria	Nigeria	London	4	23/04/2018	186		44932
+12/09/2018	30/07/2018	44	India	United States of America		2				53975
+25/10/2018	21/09/2017	399	Algeria	Algeria	Ottawa	1	20/08/2018	66	21/10/2017	46329
+19/10/2018	08/06/2018	133	Pakistan	Saudi Arabia	Vienna	4				48691
+25/10/2018	23/12/2017	306	India	India	New Delhi	1				45713
+24/10/2018	22/06/2018	124	Turkey	Turkey		N/A	31/07/2018	85		49459
+23/10/2018	22/06/2018	123	Nigeria	Nigeria		4				49736
+24/10/2018	26/05/2018	151	India	India		3				47085
+24/10/2018	28/06/2018	118	China	United States of America	Ottawa					49241
+05/09/2018	23/07/2018	44	India	United States of America	Ottawa	2				58990
+12/10/2018	21/04/2018	174	Nigeria	Nigeria	Kyiv	1	04/09/2018	38		44636
+24/10/2018	26/06/2018	120	India	United States of America	Ottawa					58980
+21/09/2018	06/05/2018	138	India	India	New Delhi	2				46771
+24/10/2018	03/07/2018	113	Pakistan	Pakistan	London	4	10/10/2018	14		51151
+24/10/2018	03/07/2018	113	Pakistan	Pakistan	London	4	10/10/2018	14		51652
+23/10/2018	31/05/2017	510	Pakistan	Pakistan	London	1	12/10/2018	11	03/01/2018	21334
+24/10/2018	03/05/2018	174	India	India	New Delhi	1				45404
+23/10/2018	27/12/2017	300	Turkey	Turkey	Ottawa	1	16/01/2018	280		37196
+24/10/2018	22/06/2018	124	Nigeria	Nigeria		3				49030
+15/10/2018	14/03/2018	215	Korea (Republic of)	Korea (Republic of)	Ottawa	1	09/09/2018	36		45014
+22/10/2018	23/06/2018	121	India	India	Ottawa	3				54389
+23/10/2018	10/08/2018	74	India	India		3				53194
+23/10/2018	21/06/2018	124	India	India	Ottawa	2				49415
+12/10/2018	26/07/2018	78	Pakistan	Pakistan	London	1				53003
+18/10/2018	04/06/2018	136	Morocco	Morocco		1				56626
+15/10/2018	06/08/2018	70	India	India		N/A				58049
+22/10/2018	21/08/2018	62	India	India	Ottawa					58654
+18/10/2018	12/11/2016	705	India		New Delhi					26266
+19/10/2018	26/06/2018	115	Pakistan	United Arab Emirates	Vienna	1				49705
+19/10/2018	10/06/2018	131	India	Netherlands	Vienna	2	22/06/2018	119		48454
+18/10/2018	22/06/2018	118	United States of America	United States of America		N/A				48839
+17/10/2018	17/07/2018	92	Nigeria	Nigeria		4				53381
+22/09/2018	16/05/2018	129	India		Ottawa	1				54485
+17/10/2018	30/07/2018	79	Nigeria	Nigeria	Ottawa	3				56933
+18/10/2018	06/08/2018	73	Pakistan	Pakistan	London	3				55325
+18/10/2018	07/06/2018	133	Morocco	Morocco	Ottawa	3				47942
+16/10/2018	11/06/2018	127	Pakistan	Pakistan	Ottawa	3				49424
+26/09/2018	10/05/2018	139	India	India	New Delhi	1				56311
+15/10/2018	09/06/2018	128	Pakistan	Pakistan		2				48059
+17/10/2018	21/06/2018	118	Bangladesh	United States of America	Ottawa	2				55565
+29/08/2018	11/07/2018	49	India	United States of America	Ottawa	1	27/08/2018	2		53873
+15/10/2018	13/07/2018	94	Turkey	Turkey		N/A	04/10/2018	11		51907
+04/10/2018	06/06/2018	120	India	United States of America	Ottawa	1				48982
+16/10/2018	15/08/2018	62	Nigeria	Nigeria	Ottawa	5				53670
+15/10/2018	28/07/2018	79	India	India	Ottawa	4				53814
+15/10/2018	29/08/2018	47	India	India	Ottawa	1				56338
+16/10/2018	10/08/2018	67	India	India		3				53332
+16/10/2018	20/06/2018	118	India	India	Ottawa	2	05/07/2018	103		49043
+15/10/2018	21/06/2018	116	India	India	Ottawa					56372
+16/10/2018	12/07/2018	96	India	India	Ottawa	2				57833
+15/10/2018	12/06/2018	125	Russian Federation	Russian Federation	Ottawa	2				48190
+16/10/2018	13/06/2018	125	Nigeria	Nigeria	Ottawa	1	11/10/2018	5		55394
+11/09/2018	04/05/2018	130	Egypt	United Kingdom of Great Britain and Northern Ireland	Ottawa	1				45525
+16/10/2018	20/06/2018	118	Nigeria	Nigeria	Ottawa	1				48878
+16/10/2018	11/06/2018	127	India	India	Ottawa	2				53746
+16/10/2018	21/06/2018	117	India	India	Ottawa	1				50038
+15/10/2018	20/06/2018	117	India	India	New Delhi	1				56552
+15/10/2018	11/06/2018	126	Bangladesh	Bangladesh	Ottawa	2				49841
+15/10/2018	11/08/2018	65	Nigeria	Nigeria		5				55416
+15/10/2018	20/06/2018	117	Jamaica	Jamaica	Ottawa	2				49143
+16/10/2018	13/06/2018	125	India	India	Ottawa	1				51528
+15/10/2018	28/06/2018	109	Philippines	Philippines		3	12/07/2018	95		53150
+02/10/2018	09/08/2018	54	India	United States of America		2				56515
+10/10/2018	09/08/2018	62	Bangladesh	Bangladesh	Singapore	1				56375
+02/10/2018	10/08/2018	53	India	United States of America		1				52843
+02/10/2018	10/08/2018	53	India	United States of America	Ottawa	3	30/08/2018	33		52836
+27/09/2018	23/04/2018	157	Nigeria	Nigeria	Ottawa	2				46042
+12/10/2018	20/05/2018	145	Pakistan	Pakistan	Islamabad	1	12/10/2018			46575
+04/10/2018	06/06/2018	120	India	India	Ottawa	1				50584
+10/10/2018	10/05/2017	518	Pakistan	Pakistan	London	6	25/10/2017	350	31/10/2017	18833
+13/10/2018	16/01/2018	270	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Paris	2				51695
+10/10/2018	04/05/2018	159	Brazil	Brazil		2				48266
+11/10/2018	20/07/2018	83	Nigeria	Nigeria	Ottawa	4				51130
+12/10/2018	10/06/2018	124	South Africa	South Africa	Pretoria	2				54198
+03/10/2018	14/08/2018	50	India	Saudi Arabia	Riyadh	1	26/09/2018	7		54262
+10/10/2018	08/06/2018	124	Brazil	Brazil	Ottawa	1				47895
+10/10/2018	30/06/2018	102	Bangladesh	Bangladesh	Ottawa	4				52576
+11/10/2018	15/06/2018	118	India	India	Ottawa	1				52867
+11/10/2018	06/06/2018	127	India	India	New Delhi	2	02/10/2018	9		48344
+10/10/2018	08/08/2017	428	Iran (Islamic Republic of)	United States of America	Ottawa	2	28/03/2018	196		56765
+10/10/2018	19/08/2018	52	India	United States of America	Ottawa	1	09/09/2018	31		56279
+10/10/2018	16/08/2018	55	China	United States of America	Ottawa	3				54092
+03/10/2018	12/08/2018	52	India	United States of America	Ottawa	1				56451
+09/10/2018	22/06/2018	109	Nigeria	Nigeria		4				57672
+09/10/2018	11/06/2018	120	India	United States of America	Ottawa	2				52063
+10/10/2018	16/08/2018	55	India	United States of America		2				53709
+05/10/2018	04/06/2018	123	South Africa	South Africa	Ottawa	3	24/09/2018	11		55251
+01/10/2018	06/08/2018	56	India	United States of America		N/A				52505
+03/10/2018	29/03/2018	188	Nigeria	Nigeria	Ottawa	3				54932
 05/10/2018	02/05/2018	156	India	United Kingdom of Great Britain and Northern Ireland		1				49281
 05/10/2018	29/05/2018	129	India	India	Ottawa	1				49657
 05/10/2018	05/06/2018	122	South Africa	South Africa		2	10/07/2018	87		51335
-05/10/2018	15/08/2018	51	Nigeria	Korea (Republic of)	Manila	1				53430
-05/10/2018	16/08/2018	50	India	United States of America	Ottawa	1				53555
-05/10/2018	04/06/2018	123	South Africa	South Africa	Ottawa	3	24/09/2018	11		55251
+04/10/2018	06/06/2018	120	India	United States of America		1				51583
+25/09/2018	11/06/2018	106	India	India		1				53505
+03/10/2018	28/05/2018	128	Uganda	Uganda	Ottawa		20/09/2018	13		51436
 06/10/2018	20/08/2018	47	Trinidad and Tobago	Trinidad and Tobago		1				54690
-08/10/2018	04/05/2018	157	Syrian Arab Republic	Saudi Arabia	London	N/A	12/05/2018	149		55039
-09/10/2018	11/06/2018	120	India	United States of America	Ottawa	2				52063
-09/10/2018	22/06/2018	109	Nigeria	Nigeria		4				57672
-10/10/2018	10/05/2017	518	Pakistan	Pakistan	London	6	25/10/2017	350	31/10/2017	18833
-10/10/2018	08/06/2018	124	Brazil	Brazil	Ottawa	1				47895
-10/10/2018	04/05/2018	159	Brazil	Brazil		2				48266
-10/10/2018	30/06/2018	102	India	Bahrain	Ottawa	4				51829
-10/10/2018	30/06/2018	102	Bangladesh	Bangladesh	Ottawa	4				52576
-10/10/2018	16/08/2018	55	India	United States of America		2				53709
-10/10/2018	16/08/2018	55	China	United States of America	Ottawa	3				54092
-10/10/2018	19/08/2018	52	India	United States of America	Ottawa	1	09/09/2018	31		56279
-10/10/2018	09/08/2018	62	Bangladesh	Bangladesh	Singapore	1				56375
-10/10/2018	08/08/2017	428	Iran (Islamic Republic of)	United States of America	Ottawa	2	28/03/2018	196		56765
-11/10/2018	06/06/2018	127	India	India	New Delhi	2	02/10/2018	9		48344
-11/10/2018	29/06/2018	104	India	China	Hong Kong SAR	3				49194
-11/10/2018	20/07/2018	83	Nigeria	Nigeria	Ottawa	4				51130
-11/10/2018	15/06/2018	118	India	India	Ottawa	1				52867
-11/10/2018	13/06/2018	120	India				26/06/2018	107		54958
-12/10/2018	16/10/2017	361	Turkey	Turkey	Paris	1				33503
-12/10/2018	21/04/2018	174	Nigeria	Nigeria	Kyiv	1	04/09/2018	38		44636
-12/10/2018	20/05/2018	145	Pakistan	Pakistan	Islamabad	1	12/10/2018			46575
-12/10/2018	26/07/2018	78	Pakistan	Pakistan	London	1				53003
-12/10/2018	10/06/2018	124	South Africa	South Africa	Pretoria	2				54198
-13/10/2018	16/01/2018	270	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Paris	2				51695
-15/10/2018	14/03/2018	215	Korea (Republic of)	Korea (Republic of)	Ottawa	1	09/09/2018	36		45014
-15/10/2018	09/06/2018	128	Pakistan	Pakistan		2				48059
-15/10/2018	12/06/2018	125	Russian Federation	Russian Federation	Ottawa	2				48190
-15/10/2018	20/06/2018	117	Jamaica	Jamaica	Ottawa	2				49143
-15/10/2018	11/06/2018	126	Bangladesh	Bangladesh	Ottawa	2				49841
-15/10/2018	13/07/2018	94	Turkey	Turkey		N/A	04/10/2018	11		51907
-15/10/2018	28/06/2018	109	Philippines	Philippines		3	12/07/2018	95		53150
-15/10/2018	28/07/2018	79	India	India	Ottawa	4				53814
-15/10/2018	11/08/2018	65	Nigeria	Nigeria		5				55416
-15/10/2018	29/08/2018	47	India	India	Ottawa	1				56338
-15/10/2018	21/06/2018	116	India	India	Ottawa					56372
-15/10/2018	20/06/2018	117	India	India	New Delhi	1				56552
-15/10/2018	06/08/2018	70	India	India		N/A				58049
-15/10/2018	30/07/2018	77	Ghana	Ghana	Accra	4				59204
-16/10/2018	05/05/2018	164	Pakistan	Oman	Abu Dhabi	4				45676
-16/10/2018	20/06/2018	118	Nigeria	Nigeria	Ottawa	1				48878
-16/10/2018	20/06/2018	118	India	India	Ottawa	2	05/07/2018	103		49043
-16/10/2018	11/06/2018	127	Pakistan	Pakistan	Ottawa	3				49424
-16/10/2018	21/06/2018	117	India	India	Ottawa	1				50038
-16/10/2018	13/06/2018	125	India	India	Ottawa	1				51528
-16/10/2018	10/08/2018	67	India	India		3				53332
-16/10/2018	15/08/2018	62	Nigeria	Nigeria	Ottawa	5				53670
-16/10/2018	11/06/2018	127	India	India	Ottawa	2				53746
-16/10/2018	13/06/2018	125	Nigeria	Nigeria	Ottawa	1	11/10/2018	5		55394
-16/10/2018	13/06/2018	125	India	India	New Delhi	N/A				56055
-16/10/2018	12/07/2018	96	India	India	Ottawa	2				57833
-17/10/2018	20/04/2018	180	Nigeria	Nigeria	Kyiv	6				44942
-17/10/2018	17/07/2018	92	Nigeria	Nigeria		4				53381
-17/10/2018	21/06/2018	118	Bangladesh	United States of America	Ottawa	2				55565
-17/10/2018	30/07/2018	79	Nigeria	Nigeria	Ottawa	3				56933
-18/10/2018	12/11/2016	705	India		New Delhi					26266
-18/10/2018	25/04/2018	176	India	United States of America		2				46122
-18/10/2018	07/06/2018	133	Morocco	Morocco	Ottawa	3				47942
-18/10/2018	22/06/2018	118	United States of America	United States of America		N/A				48839
-18/10/2018	06/08/2018	73	Pakistan	Pakistan	London	3				55325
-18/10/2018	31/07/2018	79	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	4	09/08/2018	70		56607
-18/10/2018	04/06/2018	136	Morocco	Morocco		1				56626
-19/10/2018	10/06/2018	131	India	Netherlands	Vienna	2	22/06/2018	119		48454
-19/10/2018	08/06/2018	133	Pakistan	Saudi Arabia	Vienna	4				48691
-19/10/2018	26/06/2018	115	Pakistan	United Arab Emirates	Vienna	1				49705
-22/10/2018	23/06/2018	121	India	India	Ottawa	3				54389
-22/10/2018	21/08/2018	62	India	India	Ottawa					58654
-23/10/2018	31/05/2017	510	Pakistan	Pakistan	London	1	12/10/2018	11	03/01/2018	21334
-23/10/2018	27/12/2017	300	Turkey	Turkey	Ottawa	1	16/01/2018	280		37196
-23/10/2018	23/05/2018	153	Pakistan	Pakistan	London	3				47552
-23/10/2018	21/06/2018	124	India	India	Ottawa	2				49415
-23/10/2018	22/06/2018	123	Nigeria	Nigeria		4				49736
-23/10/2018	10/08/2018	74	India	India		3				53194
-24/10/2018	03/05/2018	174	India	India	New Delhi	1				45404
-24/10/2018	11/05/2018	166	India	India	New Delhi	4				46284
-24/10/2018	26/05/2018	151	India	India		3				47085
-24/10/2018	22/06/2018	124	Nigeria	Nigeria		3				49030
-24/10/2018	28/06/2018	118	China	United States of America	Ottawa					49241
-24/10/2018	22/06/2018	124	Turkey	Turkey		N/A	31/07/2018	85		49459
-24/10/2018	03/07/2018	113	Pakistan	Pakistan	London	4	10/10/2018	14		51151
-24/10/2018	03/07/2018	113	Pakistan	Pakistan	London	4	10/10/2018	14		51652
-24/10/2018	10/05/2018	167	India	India	New Delhi	2				52680
-24/10/2018	26/06/2018	120	India	United States of America	Ottawa					58980
-25/10/2018	08/05/2017	535	Kenya	Kenya	Nairobi	1	26/09/2017	394	03/10/2017	35377
-25/10/2018	29/04/2018	179	India	United States of America	Ottawa	2				45449
-25/10/2018	23/12/2017	306	India	India	New Delhi	1				45713
-25/10/2018	21/09/2017	399	Algeria	Algeria	Ottawa	1	20/08/2018	66	21/10/2017	46329
-25/10/2018	08/04/2018	200	Jordan	United Arab Emirates	Vienna	5	13/04/2018	195		49905
-26/10/2018	22/05/2017	522	Pakistan	United Arab Emirates	London	1				31882
-26/10/2018	25/05/2017	519	Pakistan	United Arab Emirates	London	1			27/11/2017	32510
-26/10/2018	26/03/2018	214	Pakistan	Pakistan	London	4				43036
-26/10/2018	17/04/2018	192	Nigeria	Nigeria	London	4	23/04/2018	186		44932
-26/10/2018	28/06/2018	120	India	India	Ottawa	3				49180
-26/10/2018	22/06/2018	126	India	United Arab Emirates	Ottawa	3				59045
-27/10/2018	22/06/2018	127	India	South Africa		3				48756
-27/10/2018	23/06/2018	126	India	United Arab Emirates	Abu Dhabi	3				48896
-27/10/2018	30/06/2018	119	India	India	Ottawa	1				49414
-27/10/2018	01/07/2018	118	India	India	Ottawa	1				49441
-27/10/2018	21/06/2018	128	Pakistan	Pakistan	Ottawa	1				49758
-27/10/2018	23/06/2018	126	India	India	Ottawa	3				50194
-27/10/2018	04/08/2018	84	India	India	Ottawa	2	25/08/2018	63		52270
-27/10/2018	28/06/2018	121	India	India	Ottawa					58615
-29/10/2018	06/12/2017	327	Pakistan	Bahrain	Abu Dhabi	2				35758
-29/10/2018	16/05/2018	166	India	Kuwait	Vienna	3	16/10/2018	13		46477
-29/10/2018	01/07/2018	120	Nigeria	Nigeria	Ottawa	3				49696
-30/10/2018	23/05/2017	525	Iran (Islamic Republic of)	Australia		1			07/05/2018	27520
-30/10/2018	14/01/2018	289	South Africa	South Africa		2				38476
-30/10/2018	13/01/2018	290	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	1				40269
-30/10/2018	25/05/2018	158	Pakistan	Pakistan	London	2	05/09/2018	55		47137
-30/10/2018	18/04/2018	195	India	United States of America	Ottawa	2	29/09/2018	31		48387
-30/10/2018	22/06/2018	130	Nigeria	Nigeria		3	06/08/2018	85		49967
-30/10/2018	22/06/2018	130	Nigeria	Nigeria		3	06/08/2018	85		51386
-31/10/2018	31/01/2018	273	Pakistan	Pakistan	London	N/A	15/10/2018	16		39946
-31/10/2018	14/07/2018	109	Pakistan	Pakistan	Kyiv	2	01/08/2018	91		52514
-31/10/2018	14/07/2018	109	Pakistan	Pakistan	Kyiv	2	01/08/2018	91		54053
-31/10/2018	21/05/2018	163	Pakistan	Saudi Arabia		2	01/07/2018	122		59005
-01/11/2018	28/03/2018	218	Nigeria	Nigeria	Kyiv	3				48821
-01/11/2018	21/06/2018	133	Egypt	Egypt	Ottawa	1				48883
-01/11/2018	02/07/2018	122	India	India	Ottawa	2				50032
-01/11/2018	11/05/2018	174	India	United States of America	Ottawa	2				50081
-01/11/2018	06/07/2018	118	India	United States of America	Ottawa	2				50091
-01/11/2018	10/07/2018	114	El Salvador	El Salvador	Mexico City	1				50826
-01/11/2018	07/07/2018	117	India	India						55601
-01/11/2018	06/07/2018	118	India	United States of America	Ottawa	2				55771
-01/11/2018	06/07/2018	118	India	United States of America	Ottawa	3				56700
-01/11/2018	07/07/2018	117	India	India	Ottawa	2				57325
-01/11/2018	08/07/2018	116	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Ottawa	N/A				59679
-01/11/2018	26/07/2018	98	India	Saudi Arabia	London	5				59951
-02/11/2018	14/03/2018	233	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Ottawa	1				42939
-02/11/2018	01/07/2018	124	India	India	Ottawa	2				49898
-02/11/2018	14/07/2018	111	Pakistan	Pakistan	Ottawa	1				53456
-02/11/2018	05/07/2018	120	India	India	Ottawa	3				59404
-05/11/2018	07/06/2018	151	India	India	Ottawa	N/A				47911
-05/11/2018	13/06/2018	145	India	India		1				49086
-05/11/2018	05/07/2018	123	India	India						49884
-05/11/2018	08/07/2018	120	United States of America	United States of America	Ottawa	N/A				49896
-05/11/2018	06/07/2018	122	India	United Arab Emirates	Ottawa	2				49999
-05/11/2018	08/07/2018	120	India	India	Ottawa	1				50459
-05/11/2018	08/07/2018	120	India	India	Ottawa	2				51259
-06/11/2018	29/06/2018	130	India	Oman	Ottawa	3	24/10/2018	13		49658
-06/11/2018	09/07/2018	120	India	India	Ottawa	N/A				50064
-06/11/2018	08/07/2018	121	India	India		3				51431
-06/11/2018	09/07/2018	120	India	United States of America	Ottawa	3				51733
-06/11/2018	06/07/2018	123	India	India						52700
-06/11/2018	02/08/2018	96	India	India		1				52942
-06/11/2018	09/07/2018	120	Bangladesh	United States of America		1				54217
-06/11/2018	31/07/2018	98	India	India	Bengaluru (Bangalore)	3				56309
-06/11/2018	09/07/2018	120	India	India	Ottawa	3				58582
-06/11/2018	07/07/2018	122	Pakistan	United Arab Emirates	Ottawa	1				59559
-07/11/2018	23/04/2017	563	Pakistan	Australia	London	4				19025
-07/11/2018	11/08/2018	88	India	India	Ottawa	2				52875
-07/11/2018	12/07/2018	118	Nepal	United States of America		1				54176
-07/11/2018	19/07/2018	111	Pakistan	Pakistan	Ottawa	3				59329
-08/11/2018	30/01/2018	282	Nigeria	Nigeria	Kyiv	5				39685
-08/11/2018	08/06/2018	153	India	India	Sydney	2				47964
-08/11/2018	09/07/2018	122	India	India	Ottawa	1				48455
-08/11/2018	08/07/2018	123	Bangladesh	Bangladesh		3				49936
-08/11/2018	09/07/2018	122	India	India	Ottawa	2				50606
-08/11/2018	04/08/2018	96	India	India		1				54276
-08/11/2018	17/09/2018	52	Philippines	Philippines	Manila					56389
-08/11/2018	29/08/2018	71	India	India	Ottawa	3				58368
-09/11/2018	30/06/2018	132	Morocco							49763
-09/11/2018	29/06/2018	133	Nigeria	Nigeria	Ottawa	4	09/10/2018	31		51638
-09/11/2018	03/07/2018	129	Pakistan	Pakistan		1				55719
-09/11/2018	18/06/2018	144	Algeria	Algeria	Paris		20/07/2018	112		58252
-09/11/2018	22/07/2018	110	Pakistan	Saudi Arabia	London	5	12/10/2018	28		58253
-09/11/2018	08/07/2018	124	Algeria	Algeria	Ottawa	2				59803
-09/11/2018	12/07/2018	120	India	India	Ottawa	1				60240
-12/11/2018	01/10/2017	407	Ukraine	Ukraine	Ottawa		04/09/2018	69	01/11/2017	31037
-13/11/2018	02/03/2018	256	Cameroon	Portugal	Ottawa	3				41769
-13/11/2018	05/06/2018	161	India		Ottawa	2				53239
-13/11/2018	31/08/2018	74	Viet Nam	Thailand	Singapore	2				55110
-13/11/2018	07/09/2018	67	Pakistan	United Arab Emirates	London					60266
-14/11/2018	25/08/2017	446	Lebanon	Lebanon	Ottawa	1			22/09/2017	27946
-14/11/2018	29/08/2017	442	Pakistan	United Arab Emirates	London	4	24/10/2018	21		29286
-14/11/2018	05/11/2017	374	Russian Federation	Russian Federation		2			19/12/2017	34491
-14/11/2018	04/03/2018	255	Egypt	Qatar		1				41239
-14/11/2018	05/06/2018	162	India	United States of America		2				47650
-14/11/2018	07/07/2018	130	India	India	Ottawa	2	23/07/2018	114		49850
-14/11/2018	13/07/2018	124	Pakistan	Pakistan	Kyiv	1	31/07/2018	106		50501
-14/11/2018	24/07/2018	113	Sri Lanka	Sri Lanka	Ottawa	2				51397
-14/11/2018	09/07/2018	128	Nigeria	Nigeria	Ottawa	4	25/07/2018	112		51470
-14/11/2018	12/06/2018	155	India	United States of America	Ottawa	2				51494
-14/11/2018	07/08/2018	99	India	India	Ottawa	3				52524
-14/11/2018	12/07/2018	125	India	India	Ottawa	1	06/09/2018	69		53249
-14/11/2018	14/08/2018	92	India	India	Ottawa	3				53251
-14/11/2018	31/07/2018	106	Brazil	Brazil	Ottawa	2				53707
-14/11/2018	23/08/2018	83	India	United Arab Emirates	London	4				54248
-14/11/2018	23/07/2018	114	South Africa	South Africa	Ottawa	1				56586
-14/11/2018	16/08/2018	90	India	India	Ottawa	3				56801
-14/11/2018	29/08/2018	77	Sri Lanka	Sri Lanka		4				59698
-14/11/2018	12/07/2018	125	India	India	New Delhi	3				61295
-15/11/2018	02/12/2017	348	China	China	Ottawa	2			05/01/2018	35607
-15/11/2018	16/12/2017	334	Pakistan	Pakistan	Ottawa	4	26/01/2018	293	30/01/2018	36094
-15/11/2018	22/05/2018	177	Sri Lanka	Sri Lanka		2				48954
-15/11/2018	30/06/2018	138	Brazil	Brazil	Ottawa	2				49454
-15/11/2018	06/07/2018	132	Russian Federation	Russian Federation		2				49868
-15/11/2018	07/07/2018	131	Nepal	United States of America		1	02/11/2018	13		49932
-15/11/2018	10/07/2018	128	Nigeria	Nigeria		3				50261
-15/11/2018	09/07/2018	129	South Africa	South Africa	Ottawa	4	28/09/2018	48		50356
-15/11/2018	17/07/2018	121	Russian Federation	Russian Federation		2				51074
-15/11/2018	09/07/2018	129	India	India	Ottawa	3				51082
-15/11/2018	23/07/2018	115	Viet Nam	Singapore		2				51308
-15/11/2018	19/07/2018	119	India	India	Ottawa	3	08/08/2018	99		52091
-15/11/2018	22/07/2018	116	India	India	Ottawa	1				52457
-15/11/2018	04/08/2018	103	India	India	Ottawa	2				52489
-15/11/2018	25/07/2018	113	Turkey	United States of America	Ottawa	2	16/08/2018	91		52521
-15/11/2018	17/08/2018	90	Zimbabwe	Zimbabwe		1	13/09/2018	63		53693
-15/11/2018	16/08/2018	91	India	India		3				54042
-15/11/2018	16/08/2018	91	India	India		3				54042
-15/11/2018	13/07/2018	125	India	India		1				54471
-15/11/2018	08/09/2018	68	Germany	United Kingdom of Great Britain and Northern Ireland		3				55265
-15/11/2018	17/08/2018	90	India	India		3				55471
-15/11/2018	06/06/2018	162	India	India		2	11/10/2018	35		55899
-15/11/2018	12/07/2018	126	India	India		2	31/07/2018	107		56127
-15/11/2018	20/09/2018	56	Nigeria	Nigeria		3	02/11/2018	13		56899
-15/11/2018	11/08/2018	96	India	India		2				57606
-15/11/2018	23/07/2018	115	India	India	Ottawa	2				58116
-15/11/2018	23/07/2018	115	India	India	Ottawa	N/A				58409
-15/11/2018	23/05/2018	176	South Africa	South Africa	Pretoria	2				58504
-15/11/2018	21/06/2018	147	Brazil	Brazil	Ottawa	2	16/10/2018	30		59991
-15/11/2018	08/08/2018	99	India	India		3				60324
-15/11/2018	04/08/2018	103	India	United States of America						60929
-16/11/2018	07/06/2018	162	India	India	Sydney	2				49282
-16/11/2018	01/08/2018	107	India	United States of America						53231
-16/11/2018	28/06/2018	141	India	Australia		1				57761
-19/11/2018	04/08/2017	472	Pakistan	Pakistan	London	1	06/11/2018	13		34112
-19/11/2018	07/06/2018	165	India	India	New Delhi	3				47884
-19/11/2018	19/06/2018	153	India	India	New Delhi	2				48607
-19/11/2018	19/06/2018	153	India	India	New Delhi	2				48801
-19/11/2018	19/08/2017	457	Paraguay	United Kingdom of Great Britain and Northern Ireland	London	2			07/03/2018	29697
-19/11/2018	28/06/2018	144	India	India	New Delhi	2				50777
-19/11/2018	08/07/2018	134	India	United States of America	Ottawa	3				50835
-19/11/2018	25/07/2018	117	India	United States of America	Ottawa	1				51577
-19/11/2018	20/08/2018	91	India	India		4				54642
-19/11/2018	05/07/2018	137	Pakistan	Pakistan	Vienna	1				55571
-19/11/2018	27/06/2018	145	India	India	New Delhi	1				57478
-19/11/2018	19/06/2018	153	India	India	New Delhi	2				59185
-19/11/2018	03/06/2018	169	India	India	New Delhi					61055
-19/11/2018	01/06/2018	171	India	India	New Delhi					61056
-20/11/2018	03/08/2017	474	Pakistan	Pakistan	London	1	29/11/2017	356	15/11/2017	26090
-20/11/2018	29/08/2017	448	Egypt	Oman	London	5	14/02/2018	279	18/02/2018	44042
-20/11/2018	14/07/2018	129	Nigeria	Nigeria	Ottawa	1				50974
-20/11/2018	25/07/2018	118	India	India	Ottawa	2				52439
-20/11/2018	25/07/2018	118	Nigeria	Nigeria	Ottawa	5			03/10/2018	54842
-20/11/2018	04/08/2018	108	India	India		N/A				54926
-20/11/2018	27/07/2018	116	India	India	Ottawa	1				60524
-20/11/2018	19/09/2018	62	Nigeria	Nigeria		3				61303
-20/11/2018	17/07/2018	126	Nigeria	Nigeria		1				61308
-21/11/2018	23/07/2018	121	India	India	Ottawa	2	14/08/2018	99		59514
-21/11/2018	29/08/2018	84	Nigeria	Nigeria	Ottawa	1				55031
-21/11/2018	08/04/2018	227	India	India	Ottawa	2				44144
-21/11/2018	06/07/2018	138	Brazil	Brazil	Ottawa	1				48265
-21/11/2018	01/04/2018	234	India	India	New Delhi	1				46637
-21/11/2018	01/07/2018	143	India	India	Ottawa	1				50460
-21/11/2018	17/07/2018	127	India	India	Ottawa	2				53861
-21/11/2018	21/08/2018	92	India	India	Ottawa	1				56206
-22/11/2018	23/07/2018	122	Morocco	Morocco	Ottawa		07/11/2018	15		51253
-22/11/2018	03/07/2018	142	Pakistan	Pakistan		2				51645
-22/11/2018	15/09/2018	68	Pakistan	Pakistan	London	1	15/11/2018	7		55953
-22/11/2018	21/07/2018	124	Morocco	Morocco		1				57447
-22/11/2018	11/09/2018	72	Pakistan	Pakistan	London	N/A				60465
-22/11/2018	13/06/2018	162	India	United States of America		1				52647
-23/11/2018	03/06/2018	173	India	India	New Delhi	3				47510
-23/11/2018	24/06/2018	152	Pakistan	Saudi Arabia	Vienna	3				50256
-23/11/2018	19/07/2018	127	India	Saudi Arabia	Ottawa	4				51198
-23/11/2018	03/06/2018	173	India	India	New Delhi	3				47510
-23/11/2018	19/07/2018	127	India	Kuwait	Ottawa	2				51072
-23/11/2018	08/09/2017	441	Palestine, State of	United Arab Emirates	Abu Dhabi	1	04/01/2018	323		29142
-24/11/2018	04/09/2018	81	Turkey	Turkey	Ankara	1	09/11/2018	15		55920
-24/11/2018	24/07/2018	123	Belgium	Belgium	Ottawa	4				51342
-24/11/2018	20/07/2018	127	Greece	Spain	Paris	2				51258
-24/11/2018	22/04/2018	216	India	United Arab Emirates		N/A	27/04/2018	211		51870
+04/10/2018	19/06/2018	107	Pakistan	United States of America	Ottawa	2				49729
+17/09/2018	17/07/2018	62	India	Qatar	Abu Dhabi	N/A				53010
+04/10/2018	05/06/2018	121	Ukraine	Ukraine	Kyiv	1	09/07/2018	87		47747
+04/10/2018	16/08/2018	49	India	United States of America	Ottawa					54028
+05/10/2018	16/08/2018	50	India	United States of America	Ottawa	1				53555
+25/09/2018	01/06/2018	116	Brazil	Brazil	Ottawa	2	04/07/2018	83		48782
+25/09/2018	05/03/2018	204	Bangladesh	United Arab Emirates	London	1	19/09/2018	6		42149
+04/10/2018	06/06/2018	120	India	United Kingdom of Great Britain and Northern Ireland	Ottawa	2	11/07/2018	85		52240
+05/10/2018	15/08/2018	51	Nigeria	Korea (Republic of)	Manila	1				53430
+04/10/2018	15/08/2018	50	India	United States of America		1				53713
+04/10/2018	15/08/2018	50	India	United States of America		1				55041
+04/10/2018	30/07/2018	66	India	India						52139
+01/10/2018	05/08/2018	57	India	India	Ottawa	3				55132
+04/10/2018	20/10/2017	349	Lebanon	Lebanon	Ottawa	N/A				35237
+04/10/2018	20/10/2017	349	Lebanon	Lebanon	Ottawa	1			30/11/2017	56103
+03/10/2018	29/03/2018	188	India	India	Ottawa	2				49624
+04/10/2018	01/06/2018	125	Morocco	Morocco		1				48415
+03/10/2018	05/06/2018	120	India	India	Ottawa	2				50336
+25/09/2018	28/02/2018	209	India	India	Ottawa	N/A	07/03/2018	202		41673
+03/10/2018	15/08/2018	49	India	United States of America	Ottawa	2				53957
+03/10/2018	13/08/2018	51	India	United States of America	Ottawa	2				54962
+02/10/2018	22/06/2018	102	India	United States of America		1				49974
+03/10/2018	06/06/2018	119	Kenya	Kenya		1				56804
+02/10/2018	05/06/2018	119	India	India	Ottawa	N/A				47793
+03/10/2018	22/06/2018	103	India	United States of America		N/A				50927
+03/10/2018	20/04/2018	166	India	Singapore		N/A				45018
+03/10/2018	18/01/2018	258	Pakistan	Pakistan	London	1	10/07/2018	85		52421
+26/09/2018	20/04/2018	159	India	India	Ottawa	2				50968
+03/10/2018	15/04/2018	171	India	India	Ottawa	N/A				56269
+02/10/2018	03/08/2018	60	China	United States of America		N/A				53909
+02/10/2018	05/06/2018	119	India	United States of America	Ottawa					49978
+03/10/2018	04/06/2018	121	India	India		N/A				50484
+03/10/2018	19/05/2018	137	India	Oman	Abu Dhabi	3	08/06/2018	117		51068
+03/10/2018	04/06/2018	121	India	India	Ottawa	2	24/09/2018	9		51996
+02/10/2018	16/08/2018	47	India	India		1				55851
+03/10/2018	19/08/2018	45	Bangladesh	Bangladesh	Singapore	1				55551
+03/10/2018	19/06/2018	106	India	India		2				56622
+02/10/2018	04/06/2018	120	India	India	Bengaluru (Bangalore)	2	26/09/2018	6		51256
+03/10/2018	06/06/2018	119	Pakistan	Pakistan	Ottawa	2				49403
+03/10/2018	10/04/2018	176	India	India	Ottawa	3				46155
+02/10/2018	06/06/2018	118	India	India	Ottawa	1	10/07/2018	84		47826
+03/10/2018	24/05/2018	132	Bangladesh	Bangladesh		1				56131
+02/10/2018	09/08/2018	54	India	United States of America	Ottawa	3				52764
+03/10/2018	04/06/2018	121	India	India	Ottawa	N/A				50015
+02/10/2018	12/08/2018	51	India	United States of America	Ottawa	2				53025
+02/10/2018	13/08/2018	50	India	United States of America						54775
+01/10/2018	07/08/2018	55	India	United States of America	Ottawa	1				52620
+01/10/2018	07/08/2018	55	India	United States of America	Ottawa	1				55413
+11/09/2018	29/04/2018	135	India	Singapore	Ottawa	1				45252
+01/10/2018	07/08/2018	55	India	United States of America	Ottawa	1				53644
+01/10/2018	29/09/2017	367	Pakistan	United Arab Emirates	London	3	21/09/2018	10		30872
+28/09/2018	01/06/2018	119	Jordan	Jordan		1				48770
+26/09/2018	16/05/2018	133	Nigeria	Nigeria	Ottawa	4				47189
+01/10/2018	07/05/2018	147	Pakistan	United Arab Emirates	London	3				49670
+12/09/2018	17/04/2018	148	India	India	Ottawa	1				48906
+21/09/2018	05/05/2018	139	Philippines	Philippines	Ottawa	1				45512
+28/09/2018	28/05/2018	123	Russian Federation	Russian Federation		1	08/06/2018	112		49276
+15/09/2018	18/05/2018	120	India	India	Ottawa	2				56919
+26/09/2018	19/05/2018	130	India	India	Ottawa	2				51218
+25/09/2018	06/08/2018	50	India	United States of America	Ottawa	4				54205
+28/09/2018	28/05/2018	123	India	United Arab Emirates	Abu Dhabi	2				48161
+28/09/2018	04/03/2018	208	Iran (Islamic Republic of)	Iran (Islamic Republic of)		N/A				56872
+25/09/2018	15/05/2018	133	Ireland	Ireland		1				48759
+29/09/2018	04/06/2018	117	India	India		1				47919
+29/09/2018	24/05/2018	128	Poland	Poland	Warsaw	N/A	06/06/2018	115		53893
+27/09/2018	31/05/2018	119	India	India	Ottawa	2				47663
+29/09/2018	04/06/2018	117	Australia	New Zealand	Sydney	3				48508
+22/09/2018	24/05/2018	121	India	India	Ottawa	1				49203
+28/09/2018	28/05/2018	123	Brazil	Brazil	Sao Paulo	2				48379
+27/09/2018	04/06/2018	115	Nigeria	Nigeria	Ottawa	2				48248
+26/09/2018	23/05/2018	126	India	United States of America	Ottawa	1	17/09/2018	9		46869
+11/09/2018	24/07/2018	49	India	United States of America		3				51488
+26/09/2018	28/05/2018	121	India	India		2	29/06/2018	89		47143
+25/09/2018	09/05/2018	139	Brazil	Brazil	Sao Paulo	2				46695
+26/09/2018	27/05/2018	122	India	India	Ottawa	1	19/06/2018	99		56675
+13/09/2018	03/05/2018	133	Pakistan	Bahrain	Vienna	1				56650
+26/09/2018	30/05/2018	119	India	United States of America	Ottawa	2				47344
+26/09/2018	23/05/2018	126	India	India	Ottawa	2				47653
+27/09/2018	04/06/2018	115	India	India	Ottawa	3	15/06/2018	104		51442
+26/09/2018	24/05/2018	125	India	India	Ottawa	1	21/06/2018	97		53647
+21/09/2018	20/04/2018	154	India	India	Ottawa	2				47207
+27/09/2018	04/06/2018	115	India	India						47870
+27/09/2018	29/05/2018	121	India	India	Ottawa	2	28/06/2018	91		48606
+12/09/2018	30/04/2018	135	India	India		1	16/05/2018	119		46317
+25/09/2018	12/08/2018	44	Nigeria	Nigeria		4				54796
+26/09/2018	10/05/2018	139	Algeria	Algeria	Ottawa	3	25/05/2018	124		49643
+26/09/2018	13/08/2018	44	Nigeria	Nigeria		3				53723
+25/09/2018	15/05/2018	133	Brazil	Brazil		2				54964
+25/09/2018	14/07/2018	73	Nigeria	Nigeria	Ottawa	5				50551
+26/09/2018	28/07/2018	60	Iran (Islamic Republic of)	Iran (Islamic Republic of)		3				54177
+19/09/2018	16/05/2018	126	India	India		2				46980
+25/09/2018	24/05/2018	124	Turkey	Ukraine	Ottawa	2	07/06/2018	110		50497
+25/09/2018	15/05/2018	133	Brazil	Brazil	Ottawa	1				51971
+25/09/2018	05/04/2018	173	Morocco	Morocco			09/04/2018	169		51767
+25/09/2018	25/05/2018	123	Nigeria	Nigeria	Lagos	1				51612
+20/09/2018	21/12/2017	273	Colombia	United States of America	Ottawa	2	08/01/2018	255		36433
+24/09/2018	04/05/2018	143	Pakistan	Saudi Arabia	London	2				45612
+21/09/2018	09/05/2018	135	Korea (Republic of)	Singapore		3	29/05/2018	115		45890
+19/09/2018	19/02/2018	212	Nigeria	Nigeria	Ottawa	2	05/07/2018	76		44730
+19/09/2018	21/02/2018	210	Nigeria	Nigeria	Ottawa	2	05/07/2018	76		44720
+21/08/2018	13/07/2018	39	India	United States of America		2				56573
+22/09/2018	16/05/2018	129	India	India		2				46839
+06/09/2018	28/03/2018	162	Iran (Islamic Republic of)	United States of America		2				44827
+08/08/2018	23/10/2017	289	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	N/A	23/05/2018	77		44076
+01/08/2018	22/03/2018	132	India	India	Ottawa	1	19/07/2018	13		44837
+19/09/2018	05/05/2018	137	Nigeria	United Kingdom of Great Britain and Northern Ireland	London	3	23/05/2018	119		47378
+11/09/2018	23/05/2017	476	Bangladesh	Qatar	Abu Dhabi	2				24643
+21/09/2018	11/05/2018	133	India	India		N/A				46398
+21/09/2018	10/05/2018	134	India	India		2				47512
+22/09/2018	14/05/2018	131	India	India	Ottawa	2				51062
+21/09/2018	10/05/2018	134	Korea (Republic of)	Korea (Republic of)		1				46458
+21/08/2018	10/04/2018	133	Pakistan	United Kingdom of Great Britain and Northern Ireland	London	1				44239
+18/09/2018	16/05/2018	125	India	India		2				52885
+20/09/2018	28/07/2017	419	Albania	Albania	Rome	4	30/10/2017	325	29/11/2017	26556
+20/09/2018	06/08/2018	45	India	India	Sydney	1				56308
+21/09/2018	24/05/2018	120	United Kingdom of Great Britain and Northern Ireland	United Kingdom of Great Britain and Northern Ireland	London	1				47157
+11/09/2018	19/04/2018	145	India	India	Ottawa	1				50760
+21/09/2018	10/08/2018	42	India	Singapore	Singapore	2				56298
+20/09/2018	02/05/2018	141	India	India		3				53278
+20/09/2018	02/05/2018	141	India	India	Ottawa	3				45352
+20/09/2018	03/03/2018	201	India	United States of America	Sydney	1				54961
+20/09/2018	03/03/2018	201	India	United States of America	Sydney	1				54578
+12/09/2018	28/07/2018	46	India	United States of America	Ottawa	N/A				55592
+18/09/2018	07/05/2018	134	Pakistan	Pakistan	London	1				45982
+20/09/2018	22/05/2018	121	Nigeria	Nigeria	Ottawa	1				49862
+17/09/2018	25/06/2018	84	Algeria	Algeria	Tunis	1				49984
+18/09/2018	07/02/2018	223	India	India	Ottawa					40424
+20/09/2018	02/05/2018	141	India	India		1				45286
+19/09/2018	14/05/2018	128	India	India	Ottawa	3	04/06/2018	107		49947
+19/09/2018	14/04/2018	158	Pakistan	Pakistan	London	2	28/04/2018	144		46036
+18/09/2018	19/05/2018	122	Nigeria	Nigeria	Ottawa	N/A				51960
+18/09/2018	26/08/2017	388	Uzbekistan	United States of America	Ottawa	4	30/10/2017	323	08/11/2017	29639
+19/09/2018	14/05/2018	128	South Africa	South Africa	Pretoria	2				46182
+19/09/2018	21/03/2018	182	South Africa	South Africa		1				43695
+17/09/2018	30/07/2018	49	India	United States of America		1				52019
+17/09/2018	30/07/2018	49	India	United States of America		1				53245
+17/09/2018	31/07/2018	48	India	United States of America	Ottawa	2				52416
+17/09/2018	22/05/2018	118	Honduras	Honduras	Ottawa	2	21/06/2018	88		48609
+17/09/2018	22/05/2018	118	Honduras	Honduras	Ottawa	2	21/06/2018	88		51101
+07/09/2018	04/06/2018	95	India	India		2				50241
+15/09/2018	18/05/2018	120	India	India	Ottawa	2				46564
+17/09/2018	31/07/2018	48	India	United States of America		2				52509
+12/09/2018	12/05/2018	123	India	India	Ottawa	N/A				47081
+11/09/2018	08/05/2018	126	Nigeria	Nigeria	Accra	1				51754
+17/09/2018	21/04/2018	149	India	United States of America		2				50956
+12/09/2018	11/04/2018	154	Brazil	Brazil	Sao Paulo	1	17/04/2018	148		49323
+14/09/2018	12/03/2018	186	Tanzania, United Republic of	Tanzania, United Republic of		N/A	07/08/2018	38		45508
+14/09/2018	17/04/2018	150	Turkey	Turkey	Ottawa	1	14/08/2018	31		39339
+22/08/2018	06/05/2018	108	Nigeria	Nigeria	Accra	2				46721
+14/09/2018	23/05/2018	114	India	India	Ottawa	2				48067
+12/09/2018	15/04/2018	150	Algeria	Algeria	Ottawa	2				49427
+12/09/2018	30/04/2018	135	India	India	Ottawa	1				45258
+11/09/2018	06/01/2018	248	Turkey	Turkey	Paris	3	28/08/2018	14		39428
+13/09/2018	25/07/2018	50	India	United States of America	Ottawa	1				53215
+11/09/2018	16/05/2018	118	Russian Federation	Russian Federation	Moscow	1				49217
+11/09/2018	12/04/2018	152	India	United States of America		1				44534
+11/09/2018	05/05/2018	129	Nigeria	Nigeria	Ottawa	1				47209
+12/09/2018	18/05/2018	117	India	United States of America	Ottawa					49908
+12/09/2018	29/07/2018	45	India	United States of America		3				55135
+12/09/2018	23/09/2017	354	Ukraine	Ukraine	Ottawa	3	30/09/2017	347		32200
+06/09/2018	13/06/2018	85	Viet Nam	United States of America	Ottawa	2				54703
+12/09/2018	04/05/2018	131	India	Australia		1				53426
+30/08/2018	21/04/2018	131	India	India	New Delhi	1				50806
+12/09/2018	17/05/2018	118	India	India	Ottawa	1	08/06/2018	96		49931
+16/08/2018	16/04/2018	122	India	India	Ottawa	N/A	23/04/2018	115		45242
+12/09/2018	30/04/2018	135	Lebanon	Lebanon	Ottawa	N/A				50063
+07/09/2018	03/03/2018	188	India	India	New Delhi	3				42272
+12/09/2018	27/04/2018	138	Brazil	Brazil	Ottawa	2				47710
+12/09/2018	30/06/2018	74	Brazil	Brazil		1				49338
+11/09/2018	18/05/2018	116	India	United States of America	Ottawa	1				46636
+11/09/2018	08/05/2018	126	Philippines	Philippines	Ottawa	1				51305
+10/09/2018	18/05/2018	115	India	United States of America	Ottawa	1				52651
+12/09/2018	12/06/2018	92	India	India	Ottawa	1				53077
+12/09/2018	06/03/2018	190	Zimbabwe	South Africa	Pretoria	1				53673
+12/09/2018	06/03/2018	190	Zimbabwe	South Africa	Pretoria	1				47657
+07/09/2018	26/04/2018	134	Nigeria	Nigeria	Ottawa	N/A				51319
+12/09/2018	18/05/2018	117	India	India	Ottawa	2				47203
+12/09/2018	18/05/2018	117	India	India	New Delhi	1				46650
+12/09/2018	21/04/2018	144	India			1				55456
+10/09/2018	08/05/2018	125	Pakistan	Pakistan		1				45875
+12/09/2018	01/05/2018	134	Russian Federation	Russian Federation		N/A				45382
+09/08/2018	02/04/2018	129	India	India	Ottawa	1				43622
+12/09/2018	03/05/2018	132	India	India	Ottawa	1				48832
+12/09/2018	12/05/2018	123	India	India	Ottawa	1				46461
+11/09/2018	03/05/2018	131	India	India	Ottawa	1				48486
+12/09/2018	24/04/2018	141	India	India	Ottawa	1				47923
+11/09/2018	27/07/2018	46	India	United States of America		2				53229
+11/09/2018	23/05/2018	111	Dominican Republic	Australia		1	19/06/2018	84		48325
+15/08/2018	12/04/2018	125	India	United States of America	Ottawa	1				45556
+10/09/2018	03/05/2018	130	Pakistan	United States of America		1				45377
+11/09/2018	09/06/2017	459	Palestine, State of	Lebanon	Paris	1				20876
+10/09/2018	26/09/2017	349	Lebanon		Ottawa					30767
+10/09/2018	18/05/2018	115	India	United States of America	Ottawa	N/A				46478
+11/09/2018	09/04/2018	155	Pakistan	Pakistan	Ottawa	N/A				44305
+10/09/2018	14/06/2018	88	Nigeria	Nigeria	Ottawa	1				50217
+31/08/2018	19/03/2018	165	Australia	Australia	Sydney	2				42399
+31/08/2018	10/07/2018	52	India	United States of America						50414
+06/09/2018	21/04/2018	138	India	India	Ottawa	2				44634
+07/09/2018	24/07/2018	45	India	United States of America						51395
+04/09/2018	22/07/2018	44	India	United States of America	Ottawa	1				52432
+04/09/2018	22/07/2018	44	India	United States of America	Ottawa	1				51945
+07/09/2018	22/04/2018	138	India	India	Ottawa	1				44703
+07/09/2018	21/12/2017	260	Pakistan	Saudi Arabia	Ottawa	3	15/01/2018	235		36864
+07/09/2018	15/05/2018	115	India	United States of America	Ottawa	1				46219
+06/09/2018	24/05/2018	105	India	United States of America	Ottawa	N/A			07/08/2018	49515
+10/08/2018	21/03/2018	142	Morocco	Morocco	Rabat	N/A				43581
+07/09/2018	17/01/2018	233	India	India	Ottawa	4				41482
+07/09/2018	26/04/2018	134	Hong Kong	Hong Kong		2				51042
+06/09/2018	10/04/2018	149	India	United States of America		N/A				45947
+07/09/2018	04/06/2018	95	India	India	Ottawa	2				48628
+07/09/2018	23/04/2018	137	India	India	Ottawa	3				44727
+06/09/2018	26/03/2018	164	Nigeria	Nigeria		1				44937
+05/09/2018	16/03/2018	173	Morocco	Morocco		1	22/08/2018	14		47386
+30/08/2018	18/04/2018	134	India	India	New Delhi	1				44592
+14/08/2018	06/07/2018	39	Nigeria	Nigeria		1	06/08/2018	8		53340
+30/08/2018	27/04/2018	125	India	India	New Delhi	2				54908
+23/08/2018	05/03/2018	171	Pakistan	Pakistan		1				47134
+31/08/2018	20/07/2018	42	India	United States of America		1				52730
+29/08/2018	24/02/2018	186	Mauritius	Australia	Sydney	2				42495
+22/08/2018	03/02/2018	200	Jordan	Equatorial Guinea	London	1	02/08/2018	20		51168
+30/08/2018	19/04/2018	133	India	India	New Delhi	2				52597
+31/08/2018	20/07/2018	42	India	United States of America		2				53020
+31/08/2018	26/04/2018	127	Morocco	Morocco	Sydney	3	03/05/2018	120		48267
+30/08/2018	19/07/2018	42	India	United States of America		2				50946
+30/08/2018	20/07/2018	41	India	United States of America		2	08/08/2018	22		53192
+27/08/2018	18/07/2018	40		United States of America						53896
+24/08/2018	11/05/2018	105	India	United Kingdom of Great Britain and Northern Ireland	London	3				50085
+29/08/2018	06/05/2018	115	Iran (Islamic Republic of)	Iran (Islamic Republic of)						45593
+29/08/2018	07/07/2018	53	Nigeria	Nigeria		5				51175
+29/08/2018	11/07/2018	49	Nigeria	France	Paris	1				54254
+21/08/2018	14/12/2017	250	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Ottawa	2	08/03/2018	166		36096
+22/08/2018	02/02/2018	201	Nigeria	Nigeria	London	3	13/02/2018	190		41876
+22/08/2018	05/02/2018	198	India	United Arab Emirates	London	3	03/08/2018	19		39310
+27/08/2018	18/07/2018	40	India	United States of America		3				54422
+10/08/2018	05/03/2018	158	Pakistan	Pakistan	Ottawa	1				43193
+28/08/2018	18/07/2018	41	India	United States of America	Ottawa	1				50996
+27/08/2018	17/06/2018	71	India	Canada		3				54148
+03/08/2018	03/03/2018	153	India	India	New Delhi	2				45962
+27/08/2018	18/04/2018	131	India	India	New Delhi	3				44435
+16/08/2018	09/02/2018	188	South Africa	South Africa		6				46230
+17/08/2018	28/05/2018	81	Russian Federation	Russian Federation	Moscow	2				47254
+16/08/2018	29/03/2018	140	India	India	Ottawa	1				43173
+15/08/2018	11/05/2018	96	China	China	Ottawa	2				50090
+20/08/2018	11/05/2017	466	Pakistan	Pakistan	London	1			13/09/2017	18860
+02/08/2018	03/05/2017	456	India	Saudi Arabia	London	5	22/06/2018	41		23591
+22/08/2018	09/03/2018	166	Russian Federation	Russian Federation	Ottawa	1				41746
+22/08/2018	05/02/2018	198	Nigeria	Nigeria	London	1	03/08/2018	19		40692
+23/08/2018	14/07/2018	40	India	United States of America						50582
+08/08/2018	23/05/2018	77	Pakistan	United States of America	Ottawa	1				47169
+21/08/2018	05/04/2018	138	India	United States of America	Ottawa	2				49287
+22/08/2018	24/04/2018	120	Brazil	Brazil	Ottawa	3				50719
+22/08/2018	07/05/2018	107	Nigeria	Nigeria	Accra	2				52195
+21/08/2018	11/07/2018	41	India	United States of America		3				50240
+22/08/2018	24/03/2018	151	Sri Lanka	United Arab Emirates		1	06/08/2018	16		51392
+22/08/2018	08/05/2018	106	Nigeria	Nigeria	Ottawa	1				47231
+17/08/2018	15/05/2018	94	Brazil	Brazil						51968
+16/08/2018	07/05/2018	101	Korea (Republic of)	Korea (Republic of)		1				46381
+20/08/2018	11/07/2018	40	India	United States of America		3				50275
+20/08/2018	01/07/2018	50	India	United States of America						53818
+17/08/2018	23/05/2018	86	Kenya	Kenya		1				46809
+02/08/2018	01/05/2018	93	India	India						45517
+10/08/2018	09/03/2018	154	Pakistan	Pakistan	Ottawa	1				43110
+03/08/2018	24/02/2018	160	India	India	Ottawa	1	10/04/2018	115		40678
+15/08/2018	16/03/2018	152	Nigeria	Nigeria		N/A				49993
+02/08/2018	11/06/2018	52	India	India		1				51719
+16/08/2018	03/04/2018	135	India	India	Ottawa	1	07/08/2018	9	09/08/2018	47101
+18/08/2018	14/04/2018	126	Russian Federation	Russian Federation		2	23/07/2018	26		44639
+17/08/2018	06/07/2018	42	Nigeria	Saint Kitts and Nevis	Port of Spain	1	03/08/2018	14		50618
+16/08/2018	05/04/2018	133	India	India	Ottawa	1				46443
+03/08/2018	04/04/2018	121	India	United States of America	Ottawa	1				45295
+16/08/2018	17/05/2018	91	India	India	Ottawa	2				48695
+16/08/2018	26/05/2018	82	India	India	Ottawa	N/A				52070
+17/08/2018	27/03/2018	143	Philippines	Philippines	Ottawa	1				42941
+16/08/2018	16/05/2017	457	India	India	Ottawa	3			01/08/2017	21997
+16/08/2018	22/06/2018	55	India	Norway	Ottawa	1				53054
+16/08/2018	11/06/2018	66	India	India		2	08/08/2018	8		50787
+16/08/2018	20/06/2017	422	India	India	New Delhi	2	07/02/2018	190		24848
+16/08/2018	28/03/2018	141	India	India	Ottawa	N/A				46373
+16/08/2018	03/04/2018	135	Algeria	Algeria	Ottawa	1	10/05/2018	98		43913
+16/08/2018	06/05/2018	102	India	Finland		1				45901
+16/08/2018	05/07/2018	42	Egypt	Egypt		1				52312
+16/08/2018	11/05/2018	97	Viet Nam	Viet Nam	Ottawa	3				47387
+16/08/2018	17/05/2018	91	India	India	Ottawa	2				46401
+15/08/2018	12/05/2018	95	India	India	New Delhi	2				46621
+15/08/2018	05/07/2018	41	India	India	Ottawa	N/A				49688
+15/08/2018	19/04/2018	118	Algeria	Algeria	Paris	1				44959
+16/08/2018	10/05/2018	98	India	India	Ottawa	1				45847
+31/07/2018	19/06/2018	42	Barbados	Barbados	Port of Spain					48590
+09/08/2018	28/03/2018	134	Russian Federation	Russian Federation		1				43494
+14/08/2018	28/03/2018	139	Pakistan	Pakistan		1				48224
+13/08/2018	02/06/2018	72	China	United States of America	Ottawa	N/A				53345
+14/08/2018	19/03/2018	148	Nigeria	Nigeria	Ottawa	1				43614
+14/08/2018	22/03/2018	145	India	United Arab Emirates		1				47371
+15/08/2018	18/05/2018	89	Pakistan	Pakistan	Islamabad	1				52622
+14/08/2018	28/04/2018	108	Nigeria	Nigeria		1	16/05/2018	90		45049
+09/08/2018	23/05/2018	78	Korea (Republic of)	Australia	Ottawa	1				48654
+02/08/2018	02/04/2018	122	India	India	New Delhi	1				53276
+14/08/2018	08/05/2018	98	India	United States of America	Ottawa	2				46116
+06/08/2018	30/04/2018	98	India	United States of America		1				47539
+09/08/2018	06/06/2018	64	India	India	Ottawa	2				47918
+13/08/2018	20/03/2018	146	India	United States of America		N/A				44822
+14/08/2018	23/06/2018	52	Philippines	Philippines		2				48854
+10/08/2018	05/04/2018	127	India	India	Ottawa	2				43763
+09/08/2018	28/06/2018	42	India	Singapore	Ottawa	4				53086
+13/08/2018	23/05/2018	82	Pakistan	Pakistan	London					46460
+31/07/2018	20/02/2018	161	Nigeria	Nigeria	Los Angeles		17/07/2018	14		45369
+09/08/2018	24/04/2018	107	India	India	Ottawa	2	17/05/2018	84		47857
+09/08/2018	16/04/2018	115	Brazil	Brazil	Ottawa	1				44764
+03/08/2018	13/04/2018	112	India	India	New Delhi	2				44160
+10/08/2018	07/04/2018	125	Pakistan	Pakistan			12/04/2018	120		44317
+09/08/2018	20/01/2018	201	Russian Federation	Australia	Sydney					44139
+10/08/2018	04/03/2018	159	Morocco	Morocco	Ottawa	1				42489
+11/08/2018	04/05/2018	99	India	India	Ottawa	1				47995
+03/08/2018	11/03/2018	145	India	India	New Delhi	N/A				52892
+10/08/2018	04/05/2018	98	India	India		2				48122
+10/08/2018	19/04/2018	113	India	India	Ottawa	1				47363
+11/08/2018	12/06/2017	425	Pakistan	Pakistan	Ottawa	2			04/08/2017	38766
+08/08/2018	30/04/2018	100	India	India		2	22/05/2018	78		52391
+03/08/2018	01/03/2018	155	India	India	Ottawa	1				41062
+11/08/2018	16/03/2018	148	India	India	Ottawa	1				42268
+11/08/2018	12/04/2018	121	India	India		1				47556
+03/08/2018	16/03/2018	140	India	India	New Delhi	2				48367
+09/08/2018	01/05/2018	100	Brazil	Brazil	Sao Paulo	2				46536
+03/08/2018	03/03/2018	153	India	India		1				46263
+09/08/2018	19/03/2018	143	India	India	Ottawa	N/A				43773
+09/08/2018	16/04/2018	115	India	Germany	Ottawa	2				44434
+09/08/2018	27/05/2018	74	India	India	Ottawa	N/A				50387
+09/08/2018	27/05/2018	74	India	India	Ottawa	1	07/06/2018	63		50202
+10/08/2018	15/04/2018	117	Bangladesh	Bangladesh	Singapore	2				49876
+09/08/2018	29/03/2018	133	India	India	Ottawa	2				43541
+08/08/2018	27/04/2018	103	India	India	Ottawa	N/A				52767
+09/08/2018	01/05/2018	100	Brazil	Brazil		2				50299
+10/08/2018	30/03/2018	133	India	New Zealand		2				43681
+02/08/2018	31/03/2018	124	India	India	Ottawa	1				47845
+10/08/2018	24/03/2018	139	India	Australia	Sydney	2	19/07/2018	22		50855
+09/08/2018	29/06/2018	41	Dominican Republic	Dominican Republic	Mexico	2				49322
+08/08/2018	07/03/2018	154	India	United States of America	Ottawa					42669
+09/08/2018	02/04/2018	129	India	India	Ottawa	1				43814
+08/08/2018	12/04/2018	118	India	India	Sydney	1	25/04/2018	105		44001
+09/08/2018	09/04/2018	122	India	India	Ottawa	2				51925
+08/08/2018	18/04/2018	112	India	India	Ottawa	1				44734
+08/08/2018	03/07/2018	36	Nigeria	Nigeria		4				49745
+09/08/2018	19/04/2018	112	India	India	Ottawa	1	26/04/2018	105		44454
+09/08/2018	21/04/2018	110	India	India	Ottawa	1				46237
+09/08/2018	20/06/2018	50	India	India		1				52297
+08/08/2018	09/04/2018	121	India	India	Ottawa	2				49035
+09/08/2018	30/04/2018	101	India	India		2				47914
+09/08/2018	30/04/2018	101	India	India	Ottawa	2	19/05/2018	82		45173
+31/07/2018	25/05/2018	67	Brazil	Brazil	Mexico City	2				47174
+08/08/2018	29/06/2018	40	India	United States of America	Sydney	2	13/07/2018	26		50436
+01/08/2018	08/03/2018	146	India	Canada		N/A				47797
+02/08/2018	16/03/2018	139	Morocco	Morocco	Ottawa	2				42264
+08/08/2018	06/02/2018	183	Syrian Arab Republic	Japan	Manila	4	19/02/2018	170		42083
+02/08/2018	04/04/2018	120	India	United States of America	Ottawa	3				51659
+06/08/2018	18/03/2018	141	India	United States of America		N/A				50726
+04/08/2018	26/03/2018	131	India	Luxembourg	Ottawa	2	05/04/2018	121		43053
+02/08/2018	15/03/2018	140	India	United States of America	Ottawa	1				52047
+03/08/2018	13/06/2018	51	India	United States of America	Ottawa	N/A	02/08/2018	1		48263
+01/08/2018	25/06/2018	37	India	United States of America	Ottawa	3	10/07/2018	22		48995
+03/08/2018	10/05/2018	85	India	United Arab Emirates		3				49671
+03/08/2018	22/03/2018	134	India	India	Ottawa	2				42561
+03/08/2018	04/05/2018	91	India	India	Ottawa	1				46880
+02/08/2018	13/04/2018	111	India	India	Ottawa	1				47165
+04/08/2018	15/03/2018	142	India	India		N/A	05/04/2018	121		48450
+03/08/2018	17/04/2018	108	India	India	Ottawa	1				44336
+02/08/2018	21/06/2018	42	India	India	Ottawa	4				49848
+03/08/2018	07/03/2018	149	India	India	Ottawa	1				41961
+02/08/2018	04/03/2018	151	India	India	Ottawa	1				45424
+03/08/2018	01/03/2018	155	Nigeria	Nigeria	Ottawa					52183
+02/08/2018	02/02/2018	181	Pakistan	Pakistan	London	3	02/08/2018			39164
+03/08/2018	17/05/2018	78	India	India	Ottawa	2	09/06/2018	55		46408
+01/08/2018	24/06/2018	38	India	United States of America		2				49461
+01/08/2018	12/10/2017	293	Iran (Islamic Republic of)	Iran (Islamic Republic of)	Paris	2				50929
+01/08/2018	07/03/2018	147	Morocco	United States of America	Ottawa	1				41525
+01/08/2018	24/06/2018	38	United States of America	United States of America		2				48978
+01/08/2018	25/06/2018	37	India	United States of America	Ottawa	1				51476
+01/08/2018	01/02/2018	181	Nigeria	Nigeria	London	3				50624
+31/07/2018	12/06/2018	49	India	United States of America		2				48268
+31/07/2018	28/02/2018	153	India	India	Ottawa	1	10/04/2018	112		41333
+01/08/2018	12/06/2018	50	Nigeria	Nigeria		5	12/07/2018	20		48833
+31/07/2018	20/06/2018	41	Nigeria	Nigeria		1				51284
+31/07/2018	21/04/2018	101	Brazil	Brazil	Mexico City	3	26/04/2018	96		47373
+31/07/2018	16/05/2018	76	Dominican Republic	Dominican Republic	Mexico City	1				46328
+31/07/2018	15/06/2018	46	India	United States of America	Ottawa	2				50992

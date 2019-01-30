@@ -6,5 +6,6 @@ Some scripts designed for Google Chrome ([Chrome Driver](http://chromedriver.chr
 Scripts:
 
 * canada.py - Access Canadian Express Entry Application (Selenium, Chrome Driver)
-* ppr.py - Scrap data from cases at myimmitracker (BeautifulSoup)
-* cases_ppr.py - Scrap case number from html extracted from myimmitracker (BeautifulSoup)
+* ppr.py - Scrap data from cases at myimmitracker (BeautifulSoup, JSON, Requests)
+* html_cases_ppr.py - Scrap case number from html extracted from myimmitracker (BeautifulSoup)
+* input_cases_ppr.py - Scrap case number from json extracted from myimmitracker (JSON)
